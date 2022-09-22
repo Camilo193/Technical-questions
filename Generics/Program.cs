@@ -20,3 +20,13 @@ response4.Data = "I define this variable as String";
 response4_1.Data = true;
 
 //Note that response4 and response4_1 belong to the same class and you can define as string or bool
+
+
+//Response5 has 4 generics:
+Response5<string, bool, char, dynamic>  response5 = new();
+
+response5.Data = "I'm a string";
+response5.Data2 = true;
+response5.Data3 = 'F';
+response5.Data4 = "I'm a dynamyc, so I can be string, bool, char. But dynamic is different to generics";
+
