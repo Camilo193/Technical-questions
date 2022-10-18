@@ -36,12 +36,12 @@ using (StreamReader r = new StreamReader(@"people.json"))
     #region Getting Json
     People person = new People();
     string json = r.ReadToEnd();
-    List<People> people = JsonConvert.DeserializeObject<List<People>>(json);
+    List<People> people = JsonConvert.DeserializeObject<List<People>>(json)!;
     #endregion
 
     int i = 0;
 
-    while (i < 5)
+    while (i < 6)
     {
 
         if (i != 0)

@@ -1,0 +1,4002 @@
+[
+  {
+    "Name": "Eagle, pallas's fish",
+    "ScientificName": "Haliaeetus leucoryphus"
+  },
+  {
+    "Name": "African snake (unidentified)",
+    "ScientificName": "unavailable"
+  },
+  {
+    "Name": "Burmese brown mountain tortoise",
+    "ScientificName": "Manouria emys"
+  },
+  {
+    "Name": "Galah",
+    "ScientificName": "Eolophus roseicapillus"
+  },
+  {
+    "Name": "Stork, european",
+    "ScientificName": "Ciconia ciconia"
+  },
+  {
+    "Name": "Weeper capuchin",
+    "ScientificName": "Cebus nigrivittatus"
+  },
+  {
+    "Name": "Black rhinoceros",
+    "ScientificName": "Diceros bicornis"
+  },
+  {
+    "Name": "Bahama pintail",
+    "ScientificName": "Anas bahamensis"
+  },
+  {
+    "Name": "Violet-crested turaco",
+    "ScientificName": "Tauraco porphyrelophus"
+  },
+  {
+    "Name": "Duck, blue",
+    "ScientificName": "Hymenolaimus malacorhynchus"
+  },
+  {
+    "Name": "Coot, red-knobbed",
+    "ScientificName": "Fulica cristata"
+  },
+  {
+    "Name": "Southern brown bandicoot",
+    "ScientificName": "Isoodon obesulus"
+  },
+  {
+    "Name": "Owl, australian masked",
+    "ScientificName": "Tyto novaehollandiae"
+  },
+  {
+    "Name": "Wallaby, euro",
+    "ScientificName": "Macropus robustus"
+  },
+  {
+    "Name": "White-browed owl",
+    "ScientificName": "Ninox superciliaris"
+  },
+  {
+    "Name": "Bushbaby, large-eared",
+    "ScientificName": "Galago crassicaudataus"
+  },
+  {
+    "Name": "Red-billed tropic bird",
+    "ScientificName": "Phaethon aethereus"
+  },
+  {
+    "Name": "Suricate",
+    "ScientificName": "Suricata suricatta"
+  },
+  {
+    "Name": "White-rumped vulture",
+    "ScientificName": "Gyps bengalensis"
+  },
+  {
+    "Name": "Blue-faced booby",
+    "ScientificName": "Sula dactylatra"
+  },
+  {
+    "Name": "African red-eyed bulbul",
+    "ScientificName": "Pycnonotus nigricans"
+  },
+  {
+    "Name": "Curlew, black",
+    "ScientificName": "Haematopus ater"
+  },
+  {
+    "Name": "Lynx, african",
+    "ScientificName": "Felis caracal"
+  },
+  {
+    "Name": "European badger",
+    "ScientificName": "Meles meles"
+  },
+  {
+    "Name": "Crab-eating raccoon",
+    "ScientificName": "Procyon cancrivorus"
+  },
+  {
+    "Name": "Indian porcupine",
+    "ScientificName": "Hystrix indica"
+  },
+  {
+    "Name": "Frilled lizard",
+    "ScientificName": "Chlamydosaurus kingii"
+  },
+  {
+    "Name": "Red-tailed phascogale",
+    "ScientificName": "Phascogale calura"
+  },
+  {
+    "Name": "Constrictor, eastern boa",
+    "ScientificName": "Acrantophis madagascariensis"
+  },
+  {
+    "Name": "Fox, cape",
+    "ScientificName": "Vulpes chama"
+  },
+  {
+    "Name": "Common turkey",
+    "ScientificName": "Meleagris gallopavo"
+  },
+  {
+    "Name": "Sugar glider",
+    "ScientificName": "Petaurus breviceps"
+  },
+  {
+    "Name": "Teal, hottentot",
+    "ScientificName": "Anas punctata"
+  },
+  {
+    "Name": "Steenbuck",
+    "ScientificName": "Raphicerus campestris"
+  },
+  {
+    "Name": "African elephant",
+    "ScientificName": "Loxodonta africana"
+  },
+  {
+    "Name": "Corella, long-billed",
+    "ScientificName": "Cacatua tenuirostris"
+  },
+  {
+    "Name": "Feral rock pigeon",
+    "ScientificName": "Columba livia"
+  },
+  {
+    "Name": "Eagle, bateleur",
+    "ScientificName": "Terathopius ecaudatus"
+  },
+  {
+    "Name": "Starling, superb",
+    "ScientificName": "Lamprotornis superbus"
+  },
+  {
+    "Name": "African porcupine",
+    "ScientificName": "Hystrix cristata"
+  },
+  {
+    "Name": "Turaco, violet-crested",
+    "ScientificName": "Tauraco porphyrelophus"
+  },
+  {
+    "Name": "Shark, blue",
+    "ScientificName": "Prionace glauca"
+  },
+  {
+    "Name": "Dassie",
+    "ScientificName": "Dendrohyrax brucel"
+  },
+  {
+    "Name": "Rufous-collared sparrow",
+    "ScientificName": "Zonotrichia capensis"
+  },
+  {
+    "Name": "Nighthawk, common",
+    "ScientificName": "Chordeiles minor"
+  },
+  {
+    "Name": "Common boubou shrike",
+    "ScientificName": "Laniarius ferrugineus"
+  },
+  {
+    "Name": "Skink, african",
+    "ScientificName": "Mabuya spilogaster"
+  },
+  {
+    "Name": "Screamer, crested",
+    "ScientificName": "Chauna torquata"
+  },
+  {
+    "Name": "Common zorro",
+    "ScientificName": "Dusicyon thous"
+  },
+  {
+    "Name": "Vulture, turkey",
+    "ScientificName": "Cathartes aura"
+  },
+  {
+    "Name": "Cow, scottish highland",
+    "ScientificName": "Bos taurus"
+  },
+  {
+    "Name": "Blue and gold macaw",
+    "ScientificName": "Ara ararauna"
+  },
+  {
+    "Name": "Turtle, eastern box",
+    "ScientificName": "Terrapene carolina"
+  },
+  {
+    "Name": "Deer, roe",
+    "ScientificName": "Capreolus capreolus"
+  },
+  {
+    "Name": "Wallaby, river",
+    "ScientificName": "Macropus agilis"
+  },
+  {
+    "Name": "African ground squirrel (unidentified)",
+    "ScientificName": "Xerus sp."
+  },
+  {
+    "Name": "Ring dove",
+    "ScientificName": "Columba palumbus"
+  },
+  {
+    "Name": "Frilled dragon",
+    "ScientificName": "Chlamydosaurus kingii"
+  },
+  {
+    "Name": "Long-tailed spotted cat",
+    "ScientificName": "Felis wiedi or Leopardus weidi"
+  },
+  {
+    "Name": "Badger, eurasian",
+    "ScientificName": "Meles meles"
+  },
+  {
+    "Name": "Giant otter",
+    "ScientificName": "Pteronura brasiliensis"
+  },
+  {
+    "Name": "Desert tortoise",
+    "ScientificName": "Gopherus agassizii"
+  },
+  {
+    "Name": "Mongoose, eastern dwarf",
+    "ScientificName": "Helogale undulata"
+  },
+  {
+    "Name": "Stone sheep",
+    "ScientificName": "Ovis dalli stonei"
+  },
+  {
+    "Name": "White-tailed deer",
+    "ScientificName": "Odocoilenaus virginianus"
+  },
+  {
+    "Name": "Hippopotamus",
+    "ScientificName": "Hippopotamus amphibius"
+  },
+  {
+    "Name": "Cat, jungle",
+    "ScientificName": "Felis chaus"
+  },
+  {
+    "Name": "Puma, south american",
+    "ScientificName": "Felis concolor"
+  },
+  {
+    "Name": "Paddy heron (unidentified)",
+    "ScientificName": "unavailable"
+  },
+  {
+    "Name": "Bobcat",
+    "ScientificName": "Felis rufus"
+  },
+  {
+    "Name": "Eastern cottontail rabbit",
+    "ScientificName": "Sylvilagus floridanus"
+  },
+  {
+    "Name": "Water legaan",
+    "ScientificName": "Varanus salvator"
+  },
+  {
+    "Name": "Squirrel, golden-mantled ground",
+    "ScientificName": "Spermophilus lateralis"
+  },
+  {
+    "Name": "Long-billed corella",
+    "ScientificName": "Cacatua tenuirostris"
+  },
+  {
+    "Name": "Roller, lilac-breasted",
+    "ScientificName": "Coracias caudata"
+  },
+  {
+    "Name": "Robin, white-throated",
+    "ScientificName": "Irania gutteralis"
+  },
+  {
+    "Name": "Red sheep",
+    "ScientificName": "Ovis ammon"
+  },
+  {
+    "Name": "Western pygmy possum",
+    "ScientificName": "Cercatetus concinnus"
+  },
+  {
+    "Name": "Vulture, turkey",
+    "ScientificName": "Cathartes aura"
+  },
+  {
+    "Name": "Cow, scottish highland",
+    "ScientificName": "Bos taurus"
+  },
+  {
+    "Name": "Rainbow lory",
+    "ScientificName": "Trichoglossus haematodus moluccanus"
+  },
+  {
+    "Name": "Lynx, african",
+    "ScientificName": "Felis caracal"
+  },
+  {
+    "Name": "Lion, australian sea",
+    "ScientificName": "Neophoca cinerea"
+  },
+  {
+    "Name": "Antelope ground squirrel",
+    "ScientificName": "Ammospermophilus nelsoni"
+  },
+  {
+    "Name": "Gulls (unidentified)",
+    "ScientificName": "Larus sp."
+  },
+  {
+    "Name": "Screamer, crested",
+    "ScientificName": "Chauna torquata"
+  },
+  {
+    "Name": "Insect, stick",
+    "ScientificName": "Leprocaulinus vipera"
+  },
+  {
+    "Name": "African jacana",
+    "ScientificName": "Actophilornis africanus"
+  },
+  {
+    "Name": "Bustard, stanley",
+    "ScientificName": "Neotis denhami"
+  },
+  {
+    "Name": "Bonnet macaque",
+    "ScientificName": "Macaca radiata"
+  },
+  {
+    "Name": "Horned rattlesnake",
+    "ScientificName": "Crotalus cerastes"
+  },
+  {
+    "Name": "Eastern dwarf mongoose",
+    "ScientificName": "Helogale undulata"
+  },
+  {
+    "Name": "Steller sea lion",
+    "ScientificName": "Eumetopias jubatus"
+  },
+  {
+    "Name": "Bandicoot, short-nosed",
+    "ScientificName": "Isoodon obesulus"
+  },
+  {
+    "Name": "Owl, australian masked",
+    "ScientificName": "Tyto novaehollandiae"
+  },
+  {
+    "Name": "Giant heron",
+    "ScientificName": "Ardea golieth"
+  },
+  {
+    "Name": "Elegant crested tinamou",
+    "ScientificName": "Eudromia elegans"
+  },
+  {
+    "Name": "Western spotted skunk",
+    "ScientificName": "Spilogale gracilis"
+  },
+  {
+    "Name": "Steller sea lion",
+    "ScientificName": "Eumetopias jubatus"
+  },
+  {
+    "Name": "Steenbok",
+    "ScientificName": "Raphicerus campestris"
+  },
+  {
+    "Name": "Hawk, galapagos",
+    "ScientificName": "Buteo galapagoensis"
+  },
+  {
+    "Name": "Squirrel, african bush",
+    "ScientificName": "Paraxerus cepapi"
+  },
+  {
+    "Name": "Two-toed sloth",
+    "ScientificName": "Choloepus hoffmani"
+  },
+  {
+    "Name": "Goose, egyptian",
+    "ScientificName": "Alopochen aegyptiacus"
+  },
+  {
+    "Name": "Griffon vulture",
+    "ScientificName": "Gyps fulvus"
+  },
+  {
+    "Name": "Striated heron",
+    "ScientificName": "Butorides striatus"
+  },
+  {
+    "Name": "Bear, grizzly",
+    "ScientificName": "Ursus arctos"
+  },
+  {
+    "Name": "Turtle, eastern box",
+    "ScientificName": "Terrapene carolina"
+  },
+  {
+    "Name": "Native cat",
+    "ScientificName": "Dasyurus viverrinus"
+  },
+  {
+    "Name": "Cuis",
+    "ScientificName": "Microcavia australis"
+  },
+  {
+    "Name": "Porcupine, african",
+    "ScientificName": "Hystrix cristata"
+  },
+  {
+    "Name": "Jackal, golden",
+    "ScientificName": "Canis aureus"
+  },
+  {
+    "Name": "Otter, african clawless",
+    "ScientificName": "Aonyx capensis"
+  },
+  {
+    "Name": "Ring-necked pheasant",
+    "ScientificName": "Phasianus colchicus"
+  },
+  {
+    "Name": "Leopard",
+    "ScientificName": "Panthera pardus"
+  },
+  {
+    "Name": "Common dolphin",
+    "ScientificName": "Delphinus delphis"
+  },
+  {
+    "Name": "Antelope, roan",
+    "ScientificName": "Hippotragus equinus"
+  },
+  {
+    "Name": "Praying mantis (unidentified)",
+    "ScientificName": "unavailable"
+  },
+  {
+    "Name": "Crane, sandhill",
+    "ScientificName": "Grus canadensis"
+  },
+  {
+    "Name": "Scaly-breasted lorikeet",
+    "ScientificName": "Trichoglossus chlorolepidotus"
+  },
+  {
+    "Name": "Gray langur",
+    "ScientificName": "Semnopithecus entellus"
+  },
+  {
+    "Name": "Stork, black-necked",
+    "ScientificName": "Ephippiorhynchus mycteria"
+  },
+  {
+    "Name": "Green-winged macaw",
+    "ScientificName": "Ara chloroptera"
+  },
+  {
+    "Name": "Snowy owl",
+    "ScientificName": "Nyctea scandiaca"
+  },
+  {
+    "Name": "Duck, mountain",
+    "ScientificName": "Hymenolaimus malacorhynchus"
+  },
+  {
+    "Name": "Eastern dwarf mongoose",
+    "ScientificName": "Helogale undulata"
+  },
+  {
+    "Name": "Shark, blue",
+    "ScientificName": "Prionace glauca"
+  },
+  {
+    "Name": "Deer, black-tailed",
+    "ScientificName": "Odocoileus hemionus"
+  },
+  {
+    "Name": "Northern elephant seal",
+    "ScientificName": "Mirounga angustirostris"
+  },
+  {
+    "Name": "Red-cheeked cordon bleu",
+    "ScientificName": "Uraeginthus bengalus"
+  },
+  {
+    "Name": "Opossum, american virginia",
+    "ScientificName": "Didelphis virginiana"
+  },
+  {
+    "Name": "Wild water buffalo",
+    "ScientificName": "Bubalus arnee"
+  },
+  {
+    "Name": "Deer, swamp",
+    "ScientificName": "Cervus duvauceli"
+  },
+  {
+    "Name": "Heron, green",
+    "ScientificName": "Butorides striatus"
+  },
+  {
+    "Name": "Pale white-eye",
+    "ScientificName": "Zosterops pallidus"
+  },
+  {
+    "Name": "Ibex",
+    "ScientificName": "Capra ibex"
+  },
+  {
+    "Name": "Red-knobbed coot",
+    "ScientificName": "Fulica cristata"
+  },
+  {
+    "Name": "Godwit, hudsonian",
+    "ScientificName": "Limosa haemastica"
+  },
+  {
+    "Name": "Collared lemming",
+    "ScientificName": "Dicrostonyx groenlandicus"
+  },
+  {
+    "Name": "Shrew, mandras tree",
+    "ScientificName": "Anathana ellioti"
+  },
+  {
+    "Name": "Numbat",
+    "ScientificName": "Myrmecobius fasciatus"
+  },
+  {
+    "Name": "Opossum, american virginia",
+    "ScientificName": "Didelphis virginiana"
+  },
+  {
+    "Name": "Wolf, timber",
+    "ScientificName": "Canis lupus lycaon"
+  },
+  {
+    "Name": "Burrowing owl",
+    "ScientificName": "Speotyte cuniculata"
+  },
+  {
+    "Name": "Tiger snake",
+    "ScientificName": "Notechis semmiannulatus"
+  },
+  {
+    "Name": "Lizard, frilled",
+    "ScientificName": "Chlamydosaurus kingii"
+  },
+  {
+    "Name": "Blackish oystercatcher",
+    "ScientificName": "Haematopus ater"
+  },
+  {
+    "Name": "Starling, cape",
+    "ScientificName": "Lamprotornis nitens"
+  },
+  {
+    "Name": "Blue racer",
+    "ScientificName": "Coluber constrictor foxii"
+  },
+  {
+    "Name": "Bunting, crested",
+    "ScientificName": "Melophus lathami"
+  },
+  {
+    "Name": "Sifaka, verreaux's",
+    "ScientificName": "Propithecus verreauxi"
+  },
+  {
+    "Name": "Cat, native",
+    "ScientificName": "Dasyurus viverrinus"
+  },
+  {
+    "Name": "Monitor, water",
+    "ScientificName": "Varanus salvator"
+  },
+  {
+    "Name": "Porcupine, prehensile-tailed",
+    "ScientificName": "Coendou prehensilis"
+  },
+  {
+    "Name": "Otter, canadian river",
+    "ScientificName": "Lutra canadensis"
+  },
+  {
+    "Name": "Slender-billed cockatoo",
+    "ScientificName": "Cacatua tenuirostris"
+  },
+  {
+    "Name": "Urial",
+    "ScientificName": "Ovis orientalis"
+  },
+  {
+    "Name": "Frogmouth, tawny",
+    "ScientificName": "Podargus strigoides"
+  },
+  {
+    "Name": "Greylag goose",
+    "ScientificName": "Anser anser"
+  },
+  {
+    "Name": "Emerald green tree boa",
+    "ScientificName": "Boa caninus"
+  },
+  {
+    "Name": "White-lipped peccary",
+    "ScientificName": "Tayassu pecari"
+  },
+  {
+    "Name": "Barrows goldeneye",
+    "ScientificName": "Bucephala clangula"
+  },
+  {
+    "Name": "Ground monitor (unidentified)",
+    "ScientificName": "Varanus sp."
+  },
+  {
+    "Name": "Vulture, egyptian",
+    "ScientificName": "Neophron percnopterus"
+  },
+  {
+    "Name": "Golden jackal",
+    "ScientificName": "Canis aureus"
+  },
+  {
+    "Name": "Greater blue-eared starling",
+    "ScientificName": "Lamprotornis chalybaeus"
+  },
+  {
+    "Name": "Legaan, Monitor (unidentified)",
+    "ScientificName": "Varanus sp."
+  },
+  {
+    "Name": "Creeper, black-tailed tree",
+    "ScientificName": "Climacteris melanura"
+  },
+  {
+    "Name": "Tiger cat",
+    "ScientificName": "Dasyurus maculatus"
+  },
+  {
+    "Name": "Large-eared bushbaby",
+    "ScientificName": "Galago crassicaudataus"
+  },
+  {
+    "Name": "Swamp deer",
+    "ScientificName": "Cervus duvauceli"
+  },
+  {
+    "Name": "Masked booby",
+    "ScientificName": "Sula dactylatra"
+  },
+  {
+    "Name": "Deer, white-tailed",
+    "ScientificName": "Odocoilenaus virginianus"
+  },
+  {
+    "Name": "Pigeon, feral rock",
+    "ScientificName": "Columba livia"
+  },
+  {
+    "Name": "Gazer, sun",
+    "ScientificName": "Cordylus giganteus"
+  },
+  {
+    "Name": "Fat-tailed dunnart",
+    "ScientificName": "Smithopsis crassicaudata"
+  },
+  {
+    "Name": "Genoveva",
+    "ScientificName": "Junonia genoveua"
+  },
+  {
+    "Name": "Gull, southern black-backed",
+    "ScientificName": "Larus dominicanus"
+  },
+  {
+    "Name": "Kudu, greater",
+    "ScientificName": "Tragelaphus strepsiceros"
+  },
+  {
+    "Name": "Kingfisher, white-throated",
+    "ScientificName": "Halcyon smyrnesis"
+  },
+  {
+    "Name": "Boat-billed heron",
+    "ScientificName": "Cochlearius cochlearius"
+  },
+  {
+    "Name": "Whip-tailed wallaby",
+    "ScientificName": "Macropus parryi"
+  },
+  {
+    "Name": "Blacksmith plover",
+    "ScientificName": "Vanellus armatus"
+  },
+  {
+    "Name": "Toucan, red-billed",
+    "ScientificName": "Ramphastos tucanus"
+  },
+  {
+    "Name": "Red-necked wallaby",
+    "ScientificName": "Macropus rufogriseus"
+  },
+  {
+    "Name": "Small-toothed palm civet",
+    "ScientificName": "Arctogalidia trivirgata"
+  },
+  {
+    "Name": "Paddy heron (unidentified)",
+    "ScientificName": "unavailable"
+  },
+  {
+    "Name": "Tortoise, desert",
+    "ScientificName": "Gopherus agassizii"
+  },
+  {
+    "Name": "White-nosed coatimundi",
+    "ScientificName": "Nasua narica"
+  },
+  {
+    "Name": "Blue waxbill",
+    "ScientificName": "Uraeginthus angolensis"
+  },
+  {
+    "Name": "Two-toed tree sloth",
+    "ScientificName": "Choloepus hoffmani"
+  },
+  {
+    "Name": "Skimmer, four-spotted",
+    "ScientificName": "Libellula quadrimaculata"
+  },
+  {
+    "Name": "Serval",
+    "ScientificName": "Felis serval"
+  },
+  {
+    "Name": "Chestnut weaver",
+    "ScientificName": "Ploceus rubiginosus"
+  },
+  {
+    "Name": "Pintail, bahama",
+    "ScientificName": "Anas bahamensis"
+  },
+  {
+    "Name": "Vulture, egyptian",
+    "ScientificName": "Neophron percnopterus"
+  },
+  {
+    "Name": "Kudu, greater",
+    "ScientificName": "Tragelaphus strepsiceros"
+  },
+  {
+    "Name": "Genet, common",
+    "ScientificName": "Genetta genetta"
+  },
+  {
+    "Name": "Jackrabbit, white-tailed",
+    "ScientificName": "Lepus townsendii"
+  },
+  {
+    "Name": "Eleven-banded armadillo (unidentified)",
+    "ScientificName": "Cabassous sp."
+  },
+  {
+    "Name": "American beaver",
+    "ScientificName": "Castor canadensis"
+  },
+  {
+    "Name": "Racer snake",
+    "ScientificName": "Coluber constrictor"
+  },
+  {
+    "Name": "Civet (unidentified)",
+    "ScientificName": "unavailable"
+  },
+  {
+    "Name": "Deer, black-tailed",
+    "ScientificName": "Odocoileus hemionus"
+  },
+  {
+    "Name": "Onager",
+    "ScientificName": "Equus hemionus"
+  },
+  {
+    "Name": "Plover, three-banded",
+    "ScientificName": "Charadrius tricollaris"
+  },
+  {
+    "Name": "Lion, mountain",
+    "ScientificName": "Felis concolor"
+  },
+  {
+    "Name": "Pelican, australian",
+    "ScientificName": "Pelecanus conspicillatus"
+  },
+  {
+    "Name": "Galapagos mockingbird",
+    "ScientificName": "Nesomimus trifasciatus"
+  },
+  {
+    "Name": "Wallaby, bennett's",
+    "ScientificName": "Macropus rufogriseus"
+  },
+  {
+    "Name": "European spoonbill",
+    "ScientificName": "Platalea leucordia"
+  },
+  {
+    "Name": "White-throated robin",
+    "ScientificName": "Irania gutteralis"
+  },
+  {
+    "Name": "Crane, sarus",
+    "ScientificName": "Grus antigone"
+  },
+  {
+    "Name": "Wapiti, elk,",
+    "ScientificName": "Cervus canadensis"
+  },
+  {
+    "Name": "American marten",
+    "ScientificName": "Martes americana"
+  },
+  {
+    "Name": "Radiated tortoise",
+    "ScientificName": "Geochelone radiata"
+  },
+  {
+    "Name": "Southern tamandua",
+    "ScientificName": "Tamandua tetradactyla"
+  },
+  {
+    "Name": "Jackrabbit, white-tailed",
+    "ScientificName": "Lepus townsendii"
+  },
+  {
+    "Name": "Bird, pied butcher",
+    "ScientificName": "Cracticus nigroagularis"
+  },
+  {
+    "Name": "Laughing dove",
+    "ScientificName": "Streptopelia senegalensis"
+  },
+  {
+    "Name": "Openbill, asian",
+    "ScientificName": "Anastomus oscitans"
+  },
+  {
+    "Name": "Zorro, azara's",
+    "ScientificName": "Pseudalopex gymnocercus"
+  },
+  {
+    "Name": "European beaver",
+    "ScientificName": "Castor fiber"
+  },
+  {
+    "Name": "Tortoise, burmese black mountain",
+    "ScientificName": "Manouria emys"
+  },
+  {
+    "Name": "Swallow-tail gull",
+    "ScientificName": "Creagrus furcatus"
+  },
+  {
+    "Name": "Sockeye salmon",
+    "ScientificName": "Oncorhynchus nerka"
+  },
+  {
+    "Name": "Common zorro",
+    "ScientificName": "Dusicyon thous"
+  },
+  {
+    "Name": "Hyena, brown",
+    "ScientificName": "Hyaena brunnea"
+  },
+  {
+    "Name": "Hartebeest, red",
+    "ScientificName": "Alcelaphus buselaphus caama"
+  },
+  {
+    "Name": "Tarantula, salmon pink bird eater",
+    "ScientificName": "Lasiodora parahybana"
+  },
+  {
+    "Name": "Galapagos penguin",
+    "ScientificName": "Spheniscus mendiculus"
+  },
+  {
+    "Name": "Serval",
+    "ScientificName": "Felis serval"
+  },
+  {
+    "Name": "Lion, mountain",
+    "ScientificName": "Felis concolor"
+  },
+  {
+    "Name": "Bent-toed gecko",
+    "ScientificName": "Cyrtodactylus louisiadensis"
+  },
+  {
+    "Name": "Tawny eagle",
+    "ScientificName": "Anitibyx armatus"
+  },
+  {
+    "Name": "Long-finned pilot whale",
+    "ScientificName": "Globicephala melas"
+  },
+  {
+    "Name": "Cockatoo, red-tailed",
+    "ScientificName": "Calyptorhynchus magnificus"
+  },
+  {
+    "Name": "Knob-nosed goose",
+    "ScientificName": "Sarkidornis melanotos"
+  },
+  {
+    "Name": "Peacock, blue",
+    "ScientificName": "Pavo cristatus"
+  },
+  {
+    "Name": "Cormorant, pied",
+    "ScientificName": "Phalacrocorax varius"
+  },
+  {
+    "Name": "Marmot, hoary",
+    "ScientificName": "Marmota caligata"
+  },
+  {
+    "Name": "Euro wallaby",
+    "ScientificName": "Macropus robustus"
+  },
+  {
+    "Name": "Cormorant, little",
+    "ScientificName": "Phalacrocorax niger"
+  },
+  {
+    "Name": "Arctic ground squirrel",
+    "ScientificName": "Spermophilus parryii"
+  },
+  {
+    "Name": "Sloth, pale-throated three-toed",
+    "ScientificName": "Bradypus tridactylus"
+  },
+  {
+    "Name": "Turkey, wild",
+    "ScientificName": "Meleagris gallopavo"
+  },
+  {
+    "Name": "Indian mynah",
+    "ScientificName": "Acridotheres tristis"
+  },
+  {
+    "Name": "Fox, silver-backed",
+    "ScientificName": "Vulpes chama"
+  },
+  {
+    "Name": "Australian magpie",
+    "ScientificName": "Gymnorhina tibicen"
+  },
+  {
+    "Name": "Scottish highland cow",
+    "ScientificName": "Bos taurus"
+  },
+  {
+    "Name": "Snow goose",
+    "ScientificName": "Anser caerulescens"
+  },
+  {
+    "Name": "Dingo",
+    "ScientificName": "Canis dingo"
+  },
+  {
+    "Name": "Ring-tailed coatimundi",
+    "ScientificName": "Nasua nasua"
+  },
+  {
+    "Name": "Openbill, asian",
+    "ScientificName": "Anastomus oscitans"
+  },
+  {
+    "Name": "Arctic hare",
+    "ScientificName": "Lepus arcticus"
+  },
+  {
+    "Name": "Gerbil (unidentified)",
+    "ScientificName": "Gerbillus sp."
+  },
+  {
+    "Name": "Steenbuck",
+    "ScientificName": "Raphicerus campestris"
+  },
+  {
+    "Name": "Wolf spider",
+    "ScientificName": "Lycosa godeffroyi"
+  },
+  {
+    "Name": "Crocodile, nile",
+    "ScientificName": "Crocodylus niloticus"
+  },
+  {
+    "Name": "Agouti",
+    "ScientificName": "Dasyprocta leporina"
+  },
+  {
+    "Name": "Squirrel, antelope ground",
+    "ScientificName": "Ammospermophilus nelsoni"
+  },
+  {
+    "Name": "Radiated tortoise",
+    "ScientificName": "Geochelone radiata"
+  },
+  {
+    "Name": "Yellow baboon",
+    "ScientificName": "Papio cynocephalus"
+  },
+  {
+    "Name": "Stork, painted",
+    "ScientificName": "Mycteria leucocephala"
+  },
+  {
+    "Name": "Red-billed buffalo weaver",
+    "ScientificName": "Bubalornis niger"
+  },
+  {
+    "Name": "Sifaka, verreaux's",
+    "ScientificName": "Propithecus verreauxi"
+  },
+  {
+    "Name": "Greater roadrunner",
+    "ScientificName": "Geococcyx californianus"
+  },
+  {
+    "Name": "Common seal",
+    "ScientificName": "Phoca vitulina"
+  },
+  {
+    "Name": "Mongoose, banded",
+    "ScientificName": "Mungos mungo"
+  },
+  {
+    "Name": "Common raccoon",
+    "ScientificName": "Procyon lotor"
+  },
+  {
+    "Name": "Red deer",
+    "ScientificName": "Cervus elaphus"
+  },
+  {
+    "Name": "Bear, black",
+    "ScientificName": "Ursus americanus"
+  },
+  {
+    "Name": "Red-tailed phascogale",
+    "ScientificName": "Phascogale calura"
+  },
+  {
+    "Name": "Eurasian beaver",
+    "ScientificName": "Castor fiber"
+  },
+  {
+    "Name": "Woodpecker, red-headed",
+    "ScientificName": "Melanerpes erythrocephalus"
+  },
+  {
+    "Name": "Woodcock, american",
+    "ScientificName": "Scolopax minor"
+  },
+  {
+    "Name": "Pheasant, ring-necked",
+    "ScientificName": "Phasianus colchicus"
+  },
+  {
+    "Name": "Blacksmith plover",
+    "ScientificName": "Vanellus armatus"
+  },
+  {
+    "Name": "Owl, burrowing",
+    "ScientificName": "Speotyte cuniculata"
+  },
+  {
+    "Name": "Red-tailed wambenger",
+    "ScientificName": "Phascogale calura"
+  },
+  {
+    "Name": "Wolf spider",
+    "ScientificName": "Lycosa godeffroyi"
+  },
+  {
+    "Name": "Heron, boat-billed",
+    "ScientificName": "Cochlearius cochlearius"
+  },
+  {
+    "Name": "Brocket, red",
+    "ScientificName": "Mazama americana"
+  },
+  {
+    "Name": "Sloth, pale-throated three-toed",
+    "ScientificName": "Bradypus tridactylus"
+  },
+  {
+    "Name": "Squirrel, golden-mantled ground",
+    "ScientificName": "Spermophilus lateralis"
+  },
+  {
+    "Name": "African clawless otter",
+    "ScientificName": "Aonyx capensis"
+  },
+  {
+    "Name": "Grouse, sage",
+    "ScientificName": "Centrocercus urophasianus"
+  },
+  {
+    "Name": "Red-cheeked cordon bleu",
+    "ScientificName": "Uraeginthus bengalus"
+  },
+  {
+    "Name": "Crowned eagle",
+    "ScientificName": "Spizaetus coronatus"
+  },
+  {
+    "Name": "Grant's gazelle",
+    "ScientificName": "Gazella granti"
+  },
+  {
+    "Name": "Wallaby, euro",
+    "ScientificName": "Macropus robustus"
+  },
+  {
+    "Name": "Crane, blue",
+    "ScientificName": "Anthropoides paradisea"
+  },
+  {
+    "Name": "Skunk, striped",
+    "ScientificName": "Mephitis mephitis"
+  },
+  {
+    "Name": "Eastern white pelican",
+    "ScientificName": "Pelecans onocratalus"
+  },
+  {
+    "Name": "White-throated toucan",
+    "ScientificName": "Ramphastos tucanus"
+  },
+  {
+    "Name": "Arctic tern",
+    "ScientificName": "Sterna paradisaea"
+  },
+  {
+    "Name": "Mocking cliffchat",
+    "ScientificName": "Thamnolaea cinnmomeiventris"
+  },
+  {
+    "Name": "European beaver",
+    "ScientificName": "Castor fiber"
+  },
+  {
+    "Name": "Black-tailed deer",
+    "ScientificName": "Odocoileus hemionus"
+  },
+  {
+    "Name": "Deer, white-tailed",
+    "ScientificName": "Odocoilenaus virginianus"
+  },
+  {
+    "Name": "Bird (unidentified)",
+    "ScientificName": "unavailable"
+  },
+  {
+    "Name": "King vulture",
+    "ScientificName": "Sarcorhamphus papa"
+  },
+  {
+    "Name": "Cardinal, red-capped",
+    "ScientificName": "Paroaria gularis"
+  },
+  {
+    "Name": "Squirrel, richardson's ground",
+    "ScientificName": "Spermophilus richardsonii"
+  },
+  {
+    "Name": "Pelican, great white",
+    "ScientificName": "Pelecans onocratalus"
+  },
+  {
+    "Name": "Southern boubou",
+    "ScientificName": "Laniarius ferrugineus"
+  },
+  {
+    "Name": "Shark, blue",
+    "ScientificName": "Prionace glauca"
+  },
+  {
+    "Name": "African red-eyed bulbul",
+    "ScientificName": "Pycnonotus nigricans"
+  },
+  {
+    "Name": "Groundhog",
+    "ScientificName": "Marmota monax"
+  },
+  {
+    "Name": "Raccoon, crab-eating",
+    "ScientificName": "Procyon cancrivorus"
+  },
+  {
+    "Name": "Brush-tailed rat kangaroo",
+    "ScientificName": "Bettongia penicillata"
+  },
+  {
+    "Name": "Turkey, wild",
+    "ScientificName": "Meleagris gallopavo"
+  },
+  {
+    "Name": "Fox, asian red",
+    "ScientificName": "Vulpes vulpes"
+  },
+  {
+    "Name": "Asian false vampire bat",
+    "ScientificName": "Megaderma spasma"
+  },
+  {
+    "Name": "Large-eared bushbaby",
+    "ScientificName": "Galago crassicaudataus"
+  },
+  {
+    "Name": "Monitor, two-banded",
+    "ScientificName": "Varanus salvator"
+  },
+  {
+    "Name": "Glossy ibis",
+    "ScientificName": "Plegadis falcinellus"
+  },
+  {
+    "Name": "Ringtail cat",
+    "ScientificName": "Bassariscus astutus"
+  },
+  {
+    "Name": "Cat, toddy",
+    "ScientificName": "Paradoxurus hermaphroditus"
+  },
+  {
+    "Name": "Warthog",
+    "ScientificName": "Phacochoerus aethiopus"
+  },
+  {
+    "Name": "Waxbill, violet-eared",
+    "ScientificName": "Uraeginthus granatina"
+  },
+  {
+    "Name": "Beaver, north american",
+    "ScientificName": "Castor canadensis"
+  },
+  {
+    "Name": "Hawk-headed parrot",
+    "ScientificName": "Deroptyus accipitrinus"
+  },
+  {
+    "Name": "Sociable weaver",
+    "ScientificName": "Philetairus socius"
+  },
+  {
+    "Name": "Guerza",
+    "ScientificName": "Colobus guerza"
+  },
+  {
+    "Name": "Collared peccary",
+    "ScientificName": "Tayassu tajacu"
+  },
+  {
+    "Name": "Golden jackal",
+    "ScientificName": "Canis aureus"
+  },
+  {
+    "Name": "Tammar wallaby",
+    "ScientificName": "Macropus eugenii"
+  },
+  {
+    "Name": "Eurasian red squirrel",
+    "ScientificName": "Sciurus vulgaris"
+  },
+  {
+    "Name": "Armadillo, seven-banded",
+    "ScientificName": "Dasypus septemcincus"
+  },
+  {
+    "Name": "Numbat",
+    "ScientificName": "Myrmecobius fasciatus"
+  },
+  {
+    "Name": "Elephant, african",
+    "ScientificName": "Loxodonta africana"
+  },
+  {
+    "Name": "Black bear",
+    "ScientificName": "Ursus americanus"
+  },
+  {
+    "Name": "Brazilian tapir",
+    "ScientificName": "Tapirus terrestris"
+  },
+  {
+    "Name": "Antelope ground squirrel",
+    "ScientificName": "Ammospermophilus nelsoni"
+  },
+  {
+    "Name": "Gull, southern black-backed",
+    "ScientificName": "Larus dominicanus"
+  },
+  {
+    "Name": "Kelp gull",
+    "ScientificName": "Larus dominicanus"
+  },
+  {
+    "Name": "White-cheeked pintail",
+    "ScientificName": "Anas bahamensis"
+  },
+  {
+    "Name": "Paca",
+    "ScientificName": "Agouti paca"
+  },
+  {
+    "Name": "Mara",
+    "ScientificName": "Dolichitus patagonum"
+  },
+  {
+    "Name": "Echidna, short-beaked",
+    "ScientificName": "Tachyglossus aculeatus"
+  },
+  {
+    "Name": "Rhinoceros, black",
+    "ScientificName": "Diceros bicornis"
+  },
+  {
+    "Name": "Tortoise, asian foreset",
+    "ScientificName": "Manouria emys"
+  },
+  {
+    "Name": "Duck, comb",
+    "ScientificName": "Sarkidornis melanotos"
+  },
+  {
+    "Name": "Dragon, komodo",
+    "ScientificName": "Varanus komodensis"
+  },
+  {
+    "Name": "Boa, malagasy ground",
+    "ScientificName": "Acrantophis madagascariensis"
+  },
+  {
+    "Name": "Whip-tailed wallaby",
+    "ScientificName": "Macropus parryi"
+  },
+  {
+    "Name": "Blue-tongued skink",
+    "ScientificName": "Tiliqua scincoides"
+  },
+  {
+    "Name": "Fowl, helmeted guinea",
+    "ScientificName": "Numida meleagris"
+  },
+  {
+    "Name": "Great cormorant",
+    "ScientificName": "Phalacrocorax carbo"
+  },
+  {
+    "Name": "Hawk-eagle, crowned",
+    "ScientificName": "Spizaetus coronatus"
+  },
+  {
+    "Name": "Siskin, yellow-rumped",
+    "ScientificName": "Carduelis uropygialis"
+  },
+  {
+    "Name": "Snake, buttermilk",
+    "ScientificName": "Coluber constrictor"
+  },
+  {
+    "Name": "Lappet-faced vulture",
+    "ScientificName": "Aegypius tracheliotus"
+  },
+  {
+    "Name": "Sulfur-crested cockatoo",
+    "ScientificName": "Cacatua galerita"
+  },
+  {
+    "Name": "Collared lemming",
+    "ScientificName": "Dicrostonyx groenlandicus"
+  },
+  {
+    "Name": "Indian mynah",
+    "ScientificName": "Acridotheres tristis"
+  },
+  {
+    "Name": "Japanese macaque",
+    "ScientificName": "Macaca fuscata"
+  },
+  {
+    "Name": "Grant's gazelle",
+    "ScientificName": "Gazella granti"
+  },
+  {
+    "Name": "Coqui partridge",
+    "ScientificName": "Francolinus coqui"
+  },
+  {
+    "Name": "Chameleon (unidentified)",
+    "ScientificName": "Chamaelo sp."
+  },
+  {
+    "Name": "Spotted deer",
+    "ScientificName": "Axis axis"
+  },
+  {
+    "Name": "Jackal, silver-backed",
+    "ScientificName": "Canis mesomelas"
+  },
+  {
+    "Name": "Harbor seal",
+    "ScientificName": "Phoca vitulina"
+  },
+  {
+    "Name": "Gila monster",
+    "ScientificName": "Heloderma horridum"
+  },
+  {
+    "Name": "Fox, blue",
+    "ScientificName": "Alopex lagopus"
+  },
+  {
+    "Name": "Short-beaked echidna",
+    "ScientificName": "Tachyglossus aculeatus"
+  },
+  {
+    "Name": "Red-necked phalarope",
+    "ScientificName": "Phalaropus lobatus"
+  },
+  {
+    "Name": "Bush dog",
+    "ScientificName": "Speothos vanaticus"
+  },
+  {
+    "Name": "Common palm civet",
+    "ScientificName": "Paradoxurus hermaphroditus"
+  },
+  {
+    "Name": "Carmine bee-eater",
+    "ScientificName": "Merops nubicus"
+  },
+  {
+    "Name": "Collared lizard",
+    "ScientificName": "Crotaphytus collaris"
+  },
+  {
+    "Name": "Deer, roe",
+    "ScientificName": "Capreolus capreolus"
+  },
+  {
+    "Name": "Turkey, wild",
+    "ScientificName": "Meleagris gallopavo"
+  },
+  {
+    "Name": "Gnu, brindled",
+    "ScientificName": "Connochaetus taurinus"
+  },
+  {
+    "Name": "Great horned owl",
+    "ScientificName": "Bubo virginianus"
+  },
+  {
+    "Name": "Skink, african",
+    "ScientificName": "Mabuya spilogaster"
+  },
+  {
+    "Name": "Chickadee, black-capped",
+    "ScientificName": "Parus atricapillus"
+  },
+  {
+    "Name": "South American puma",
+    "ScientificName": "Felis concolor"
+  },
+  {
+    "Name": "Red brocket",
+    "ScientificName": "Mazama americana"
+  },
+  {
+    "Name": "Lizard, desert spiny",
+    "ScientificName": "Sceloporus magister"
+  },
+  {
+    "Name": "Ring dove",
+    "ScientificName": "Columba palumbus"
+  },
+  {
+    "Name": "American badger",
+    "ScientificName": "Taxidea taxus"
+  },
+  {
+    "Name": "Sloth, pale-throated three-toed",
+    "ScientificName": "Bradypus tridactylus"
+  },
+  {
+    "Name": "Monkey, bleeding heart",
+    "ScientificName": "Theropithecus gelada"
+  },
+  {
+    "Name": "Tailless tenrec",
+    "ScientificName": "Tenrec ecaudatus"
+  },
+  {
+    "Name": "Violet-eared waxbill",
+    "ScientificName": "Uraeginthus granatina"
+  },
+  {
+    "Name": "Hawk-eagle, crowned",
+    "ScientificName": "Spizaetus coronatus"
+  },
+  {
+    "Name": "Squirrel, eastern fox",
+    "ScientificName": "Sciurus niger"
+  },
+  {
+    "Name": "Kelp gull",
+    "ScientificName": "Larus dominicanus"
+  },
+  {
+    "Name": "Vulture, turkey",
+    "ScientificName": "Cathartes aura"
+  },
+  {
+    "Name": "Armadillo, giant",
+    "ScientificName": "Priodontes maximus"
+  },
+  {
+    "Name": "Black-eyed bulbul",
+    "ScientificName": "Pycnonotus barbatus"
+  },
+  {
+    "Name": "Skink, blue-tongued",
+    "ScientificName": "Tiliqua scincoides"
+  },
+  {
+    "Name": "Vulture, egyptian",
+    "ScientificName": "Neophron percnopterus"
+  },
+  {
+    "Name": "Goose, cereopsis",
+    "ScientificName": "Cereopsis novaehollandiae"
+  },
+  {
+    "Name": "Slender loris",
+    "ScientificName": "Loris tardigratus"
+  },
+  {
+    "Name": "Vulture, egyptian",
+    "ScientificName": "Neophron percnopterus"
+  },
+  {
+    "Name": "Dragon, netted rock",
+    "ScientificName": "Ctenophorus ornatus"
+  },
+  {
+    "Name": "Black spider monkey",
+    "ScientificName": "Ateles paniscus"
+  },
+  {
+    "Name": "Red-necked wallaby",
+    "ScientificName": "Macropus rufogriseus"
+  },
+  {
+    "Name": "Colobus, black and white",
+    "ScientificName": "Colobus guerza"
+  },
+  {
+    "Name": "South African hedgehog",
+    "ScientificName": "Erinaceus frontalis"
+  },
+  {
+    "Name": "Possum, pygmy",
+    "ScientificName": "Acrobates pygmaeus"
+  },
+  {
+    "Name": "Lion, steller's sea",
+    "ScientificName": "Eumetopias jubatus"
+  },
+  {
+    "Name": "Lion, california sea",
+    "ScientificName": "Zalophus californicus"
+  },
+  {
+    "Name": "Australian masked owl",
+    "ScientificName": "Tyto novaehollandiae"
+  },
+  {
+    "Name": "Stilt, black-winged",
+    "ScientificName": "Himantopus himantopus"
+  },
+  {
+    "Name": "Cat, ringtail",
+    "ScientificName": "Bassariscus astutus"
+  },
+  {
+    "Name": "Capuchin, black-capped",
+    "ScientificName": "Cebus apella"
+  },
+  {
+    "Name": "Dove, rock",
+    "ScientificName": "Columba livia"
+  },
+  {
+    "Name": "Komodo dragon",
+    "ScientificName": "Varanus komodensis"
+  },
+  {
+    "Name": "Vulture, white-headed",
+    "ScientificName": "Aegypius occipitalis"
+  },
+  {
+    "Name": "Waxbill, blue",
+    "ScientificName": "Uraeginthus angolensis"
+  },
+  {
+    "Name": "Ibis, sacred",
+    "ScientificName": "Threskionis aethiopicus"
+  },
+  {
+    "Name": "Small-spotted genet",
+    "ScientificName": "Genetta genetta"
+  },
+  {
+    "Name": "Iguana, marine",
+    "ScientificName": "Amblyrhynchus cristatus"
+  },
+  {
+    "Name": "Stork, jabiru",
+    "ScientificName": "Ephippiorhynchus mycteria"
+  },
+  {
+    "Name": "Thrasher, curve-billed",
+    "ScientificName": "Toxostoma curvirostre"
+  },
+  {
+    "Name": "Kirk's dik dik",
+    "ScientificName": "Madoqua kirkii"
+  },
+  {
+    "Name": "Dove, rock",
+    "ScientificName": "Columba livia"
+  },
+  {
+    "Name": "Black-tailed prairie dog",
+    "ScientificName": "Cynomys ludovicianus"
+  },
+  {
+    "Name": "Lourie, grey",
+    "ScientificName": "Lorythaixoides concolor"
+  },
+  {
+    "Name": "Black curlew",
+    "ScientificName": "Haematopus ater"
+  },
+  {
+    "Name": "Rose-ringed parakeet",
+    "ScientificName": "Psittacula krameri"
+  },
+  {
+    "Name": "Lilac-breasted roller",
+    "ScientificName": "Coracias caudata"
+  },
+  {
+    "Name": "White-headed vulture",
+    "ScientificName": "Aegypius occipitalis"
+  },
+  {
+    "Name": "Moccasin, water",
+    "ScientificName": "Agkistrodon piscivorus"
+  },
+  {
+    "Name": "Rat, arboral spiny",
+    "ScientificName": "Echimys chrysurus"
+  },
+  {
+    "Name": "Squirrel, golden-mantled ground",
+    "ScientificName": "Spermophilus lateralis"
+  },
+  {
+    "Name": "Cat, jungle",
+    "ScientificName": "Felis chaus"
+  },
+  {
+    "Name": "Ibis, puna",
+    "ScientificName": "Plegadis ridgwayi"
+  },
+  {
+    "Name": "Cormorant, king",
+    "ScientificName": "Phalacrocorax albiventer"
+  },
+  {
+    "Name": "Pheasant, ring-necked",
+    "ScientificName": "Phasianus colchicus"
+  },
+  {
+    "Name": "Cuis",
+    "ScientificName": "Microcavia australis"
+  },
+  {
+    "Name": "Porcupine, tree",
+    "ScientificName": "Coendou prehensilis"
+  },
+  {
+    "Name": "South American puma",
+    "ScientificName": "Felis concolor"
+  },
+  {
+    "Name": "Stork, yellow-billed",
+    "ScientificName": "Mycteria ibis"
+  },
+  {
+    "Name": "Mara",
+    "ScientificName": "Dolichitus patagonum"
+  },
+  {
+    "Name": "Curve-billed thrasher",
+    "ScientificName": "Toxostoma curvirostre"
+  },
+  {
+    "Name": "Gulls (unidentified)",
+    "ScientificName": "Larus sp."
+  },
+  {
+    "Name": "Tortoise, burmese brown mountain",
+    "ScientificName": "Manouria emys"
+  },
+  {
+    "Name": "Bat, little brown",
+    "ScientificName": "Myotis lucifugus"
+  },
+  {
+    "Name": "Leopard",
+    "ScientificName": "Panthera pardus"
+  },
+  {
+    "Name": "Whip-tailed wallaby",
+    "ScientificName": "Macropus parryi"
+  },
+  {
+    "Name": "Griffon vulture",
+    "ScientificName": "Gyps fulvus"
+  },
+  {
+    "Name": "Small-spotted genet",
+    "ScientificName": "Genetta genetta"
+  },
+  {
+    "Name": "Waved albatross",
+    "ScientificName": "Diomedea irrorata"
+  },
+  {
+    "Name": "Squirrel, nelson ground",
+    "ScientificName": "Ammospermophilus nelsoni"
+  },
+  {
+    "Name": "Cow, scottish highland",
+    "ScientificName": "Bos taurus"
+  },
+  {
+    "Name": "Glider, sugar",
+    "ScientificName": "Petaurus breviceps"
+  },
+  {
+    "Name": "Common grenadier",
+    "ScientificName": "Uraeginthus granatina"
+  },
+  {
+    "Name": "Cormorant, neotropic",
+    "ScientificName": "Phalacrocorax brasilianus"
+  },
+  {
+    "Name": "Kiskadee, great",
+    "ScientificName": "Pitangus sulphuratus"
+  },
+  {
+    "Name": "Goose, snow",
+    "ScientificName": "Anser caerulescens"
+  },
+  {
+    "Name": "Crane, sarus",
+    "ScientificName": "Grus antigone"
+  },
+  {
+    "Name": "Long-tailed skua",
+    "ScientificName": "Stercorarius longicausus"
+  },
+  {
+    "Name": "Blackbuck",
+    "ScientificName": "Antilope cervicapra"
+  },
+  {
+    "Name": "Tyrant flycatcher",
+    "ScientificName": "Myiarchus tuberculifer"
+  },
+  {
+    "Name": "Colobus, black and white",
+    "ScientificName": "Colobus guerza"
+  },
+  {
+    "Name": "Robin, white-throated",
+    "ScientificName": "Irania gutteralis"
+  },
+  {
+    "Name": "Otter, small-clawed",
+    "ScientificName": "Aonyx cinerea"
+  },
+  {
+    "Name": "Armadillo, nine-banded",
+    "ScientificName": "Dasypus novemcinctus"
+  },
+  {
+    "Name": "Feathertail glider",
+    "ScientificName": "Acrobates pygmaeus"
+  },
+  {
+    "Name": "Crab-eating fox",
+    "ScientificName": "Dusicyon thous"
+  },
+  {
+    "Name": "Falcon, prairie",
+    "ScientificName": "Falco mexicanus"
+  },
+  {
+    "Name": "Great egret",
+    "ScientificName": "Casmerodius albus"
+  },
+  {
+    "Name": "Giant anteater",
+    "ScientificName": "Myrmecophaga tridactyla"
+  },
+  {
+    "Name": "Deer, roe",
+    "ScientificName": "Capreolus capreolus"
+  },
+  {
+    "Name": "African black crake",
+    "ScientificName": "Limnocorax flavirostra"
+  },
+  {
+    "Name": "Crested screamer",
+    "ScientificName": "Chauna torquata"
+  },
+  {
+    "Name": "Cereopsis goose",
+    "ScientificName": "Cereopsis novaehollandiae"
+  },
+  {
+    "Name": "Baboon, olive",
+    "ScientificName": "Papio cynocephalus"
+  },
+  {
+    "Name": "Lion, galapagos sea",
+    "ScientificName": "Zalophus californicus"
+  },
+  {
+    "Name": "Field flicker",
+    "ScientificName": "Colaptes campestroides"
+  },
+  {
+    "Name": "Grey mouse lemur",
+    "ScientificName": "Microcebus murinus"
+  },
+  {
+    "Name": "Turtle (unidentified)",
+    "ScientificName": "unavailable"
+  },
+  {
+    "Name": "Alpaca",
+    "ScientificName": "Lama pacos"
+  },
+  {
+    "Name": "Lechwe, kafue flats",
+    "ScientificName": "Kobus leche robertsi"
+  },
+  {
+    "Name": "Goldeneye, barrows",
+    "ScientificName": "Bucephala clangula"
+  },
+  {
+    "Name": "Eastern dwarf mongoose",
+    "ScientificName": "Helogale undulata"
+  },
+  {
+    "Name": "Kangaroo, red",
+    "ScientificName": "Macropus rufus"
+  },
+  {
+    "Name": "Bustard, denham's",
+    "ScientificName": "Neotis denhami"
+  },
+  {
+    "Name": "Capuchin, black-capped",
+    "ScientificName": "Cebus apella"
+  },
+  {
+    "Name": "White spoonbill",
+    "ScientificName": "Platalea leucordia"
+  },
+  {
+    "Name": "Bear, grizzly",
+    "ScientificName": "Ursus arctos"
+  },
+  {
+    "Name": "Chipmunk, least",
+    "ScientificName": "Eutamias minimus"
+  },
+  {
+    "Name": "Cormorant, little",
+    "ScientificName": "Phalacrocorax niger"
+  },
+  {
+    "Name": "Goldeneye, common",
+    "ScientificName": "Bucephala clangula"
+  },
+  {
+    "Name": "Cat, kaffir",
+    "ScientificName": "Felis silvestris lybica"
+  },
+  {
+    "Name": "Fox, silver-backed",
+    "ScientificName": "Vulpes chama"
+  },
+  {
+    "Name": "Grebe, little",
+    "ScientificName": "Tachybaptus ruficollis"
+  },
+  {
+    "Name": "Purple moorhen",
+    "ScientificName": "Porphyrio porphyrio"
+  },
+  {
+    "Name": "White-nosed coatimundi",
+    "ScientificName": "Nasua narica"
+  },
+  {
+    "Name": "Common boubou shrike",
+    "ScientificName": "Laniarius ferrugineus"
+  },
+  {
+    "Name": "Lion, african",
+    "ScientificName": "Panthera leo"
+  },
+  {
+    "Name": "Shelduck, european",
+    "ScientificName": "Tadorna tadorna"
+  },
+  {
+    "Name": "Adouri (unidentified)",
+    "ScientificName": "unavailable"
+  },
+  {
+    "Name": "Snowy egret",
+    "ScientificName": "Egretta thula"
+  },
+  {
+    "Name": "Booby, blue-faced",
+    "ScientificName": "Sula dactylatra"
+  },
+  {
+    "Name": "Azara's zorro",
+    "ScientificName": "Pseudalopex gymnocercus"
+  },
+  {
+    "Name": "Heron, green-backed",
+    "ScientificName": "Butorides striatus"
+  },
+  {
+    "Name": "Gray duiker",
+    "ScientificName": "Sylvicapra grimma"
+  },
+  {
+    "Name": "Fox, arctic",
+    "ScientificName": "Alopex lagopus"
+  },
+  {
+    "Name": "Raccoon, common",
+    "ScientificName": "Procyon lotor"
+  },
+  {
+    "Name": "Roller, lilac-breasted",
+    "ScientificName": "Coracias caudata"
+  },
+  {
+    "Name": "Lion, mountain",
+    "ScientificName": "Felis concolor"
+  },
+  {
+    "Name": "Common genet",
+    "ScientificName": "Genetta genetta"
+  },
+  {
+    "Name": "Lesser flamingo",
+    "ScientificName": "Phoeniconaias minor"
+  },
+  {
+    "Name": "Gaur",
+    "ScientificName": "Bos frontalis"
+  },
+  {
+    "Name": "Duck, blue",
+    "ScientificName": "Hymenolaimus malacorhynchus"
+  },
+  {
+    "Name": "Ring-tailed possum",
+    "ScientificName": "Pseudocheirus peregrinus"
+  },
+  {
+    "Name": "Lion, southern sea",
+    "ScientificName": "Otaria flavescens"
+  },
+  {
+    "Name": "Harbor seal",
+    "ScientificName": "Phoca vitulina"
+  },
+  {
+    "Name": "Knob-nosed goose",
+    "ScientificName": "Sarkidornis melanotos"
+  },
+  {
+    "Name": "Capybara",
+    "ScientificName": "Hydrochoerus hydrochaeris"
+  },
+  {
+    "Name": "Marshbird, brown and yellow",
+    "ScientificName": "Pseudoleistes virescens"
+  },
+  {
+    "Name": "Kangaroo, red",
+    "ScientificName": "Macropus rufus"
+  },
+  {
+    "Name": "Oriental white-backed vulture",
+    "ScientificName": "Gyps bengalensis"
+  },
+  {
+    "Name": "Asian openbill",
+    "ScientificName": "Anastomus oscitans"
+  },
+  {
+    "Name": "Cottonmouth",
+    "ScientificName": "Agkistrodon piscivorus"
+  },
+  {
+    "Name": "Goldeneye, barrows",
+    "ScientificName": "Bucephala clangula"
+  },
+  {
+    "Name": "Weaver, red-billed buffalo",
+    "ScientificName": "Bubalornis niger"
+  },
+  {
+    "Name": "Fox, asian red",
+    "ScientificName": "Vulpes vulpes"
+  },
+  {
+    "Name": "Goose, cape barren",
+    "ScientificName": "Cereopsis novaehollandiae"
+  },
+  {
+    "Name": "Red-winged hawk (unidentified)",
+    "ScientificName": "unavailable"
+  },
+  {
+    "Name": "Horned lark",
+    "ScientificName": "Eremophila alpestris"
+  },
+  {
+    "Name": "Indian star tortoise",
+    "ScientificName": "Geochelone elegans"
+  },
+  {
+    "Name": "Kingfisher, malachite",
+    "ScientificName": "Corythornis cristata"
+  },
+  {
+    "Name": "Mongoose, small indian",
+    "ScientificName": "Herpestes javanicus"
+  },
+  {
+    "Name": "Black-backed jackal",
+    "ScientificName": "Canis mesomelas"
+  },
+  {
+    "Name": "Egyptian viper",
+    "ScientificName": "Naja haje"
+  },
+  {
+    "Name": "Turkey, wild",
+    "ScientificName": "Meleagris gallopavo"
+  },
+  {
+    "Name": "Australian magpie",
+    "ScientificName": "Gymnorhina tibicen"
+  },
+  {
+    "Name": "Lilac-breasted roller",
+    "ScientificName": "Coracias caudata"
+  },
+  {
+    "Name": "Deer, black-tailed",
+    "ScientificName": "Odocoileus hemionus"
+  },
+  {
+    "Name": "Monster, gila",
+    "ScientificName": "Heloderma horridum"
+  },
+  {
+    "Name": "Whale, baleen",
+    "ScientificName": "Eubalaena australis"
+  },
+  {
+    "Name": "Falcon, peregrine",
+    "ScientificName": "Falco peregrinus"
+  },
+  {
+    "Name": "Beaver, european",
+    "ScientificName": "Castor fiber"
+  },
+  {
+    "Name": "Asian water buffalo",
+    "ScientificName": "Bubalus arnee"
+  },
+  {
+    "Name": "Bulbul, black-fronted",
+    "ScientificName": "Pycnonotus nigricans"
+  },
+  {
+    "Name": "Gemsbok",
+    "ScientificName": "Oryx gazella"
+  },
+  {
+    "Name": "Viper, egyptian",
+    "ScientificName": "Naja haje"
+  },
+  {
+    "Name": "African lynx",
+    "ScientificName": "Felis caracal"
+  },
+  {
+    "Name": "Goose, knob-nosed",
+    "ScientificName": "Sarkidornis melanotos"
+  },
+  {
+    "Name": "Jacana, african",
+    "ScientificName": "Actophilornis africanus"
+  },
+  {
+    "Name": "Wambenger, red-tailed",
+    "ScientificName": "Phascogale calura"
+  },
+  {
+    "Name": "Grant's gazelle",
+    "ScientificName": "Gazella granti"
+  },
+  {
+    "Name": "Antelope ground squirrel",
+    "ScientificName": "Ammospermophilus nelsoni"
+  },
+  {
+    "Name": "Deer, swamp",
+    "ScientificName": "Cervus duvauceli"
+  },
+  {
+    "Name": "Blue racer",
+    "ScientificName": "Coluber constrictor foxii"
+  },
+  {
+    "Name": "Pygmy possum",
+    "ScientificName": "Acrobates pygmaeus"
+  },
+  {
+    "Name": "Silver-backed jackal",
+    "ScientificName": "Canis mesomelas"
+  },
+  {
+    "Name": "Dragon, western bearded",
+    "ScientificName": "Amphibolurus barbatus"
+  },
+  {
+    "Name": "White-winged black tern",
+    "ScientificName": "Chlidonias leucopterus"
+  },
+  {
+    "Name": "Sunbird, lesser double-collared",
+    "ScientificName": "Nectarinia chalybea"
+  },
+  {
+    "Name": "Mountain duck",
+    "ScientificName": "Hymenolaimus malacorhynchus"
+  },
+  {
+    "Name": "Yellow-billed hornbill",
+    "ScientificName": "Tockus flavirostris"
+  },
+  {
+    "Name": "White-fronted capuchin",
+    "ScientificName": "Cebus albifrons"
+  },
+  {
+    "Name": "Squirrel, eastern fox",
+    "ScientificName": "Sciurus niger"
+  },
+  {
+    "Name": "Guanaco",
+    "ScientificName": "Lama guanicoe"
+  },
+  {
+    "Name": "Lory, rainbow",
+    "ScientificName": "Trichoglossus haematodus moluccanus"
+  },
+  {
+    "Name": "Tawny eagle",
+    "ScientificName": "Anitibyx armatus"
+  },
+  {
+    "Name": "European spoonbill",
+    "ScientificName": "Platalea leucordia"
+  },
+  {
+    "Name": "Jaguar",
+    "ScientificName": "Panthera onca"
+  },
+  {
+    "Name": "Hyena, spotted",
+    "ScientificName": "Crocuta crocuta"
+  },
+  {
+    "Name": "Frog (unidentified)",
+    "ScientificName": "Rana sp."
+  },
+  {
+    "Name": "Salmon, sockeye",
+    "ScientificName": "Oncorhynchus nerka"
+  },
+  {
+    "Name": "White-winged black tern",
+    "ScientificName": "Chlidonias leucopterus"
+  },
+  {
+    "Name": "Snake (unidentified)",
+    "ScientificName": "unavailable"
+  },
+  {
+    "Name": "African buffalo",
+    "ScientificName": "Snycerus caffer"
+  },
+  {
+    "Name": "Wattled crane",
+    "ScientificName": "Bugeranus caruncalatus"
+  },
+  {
+    "Name": "Agama lizard (unidentified)",
+    "ScientificName": "Agama sp."
+  },
+  {
+    "Name": "Lion, steller sea",
+    "ScientificName": "Eumetopias jubatus"
+  },
+  {
+    "Name": "Steenbok",
+    "ScientificName": "Raphicerus campestris"
+  },
+  {
+    "Name": "Squirrel, antelope ground",
+    "ScientificName": "Ammospermophilus nelsoni"
+  },
+  {
+    "Name": "Canada goose",
+    "ScientificName": "Branta canadensis"
+  },
+  {
+    "Name": "Spur-winged goose",
+    "ScientificName": "Plectopterus gambensis"
+  },
+  {
+    "Name": "Rhinoceros, black",
+    "ScientificName": "Diceros bicornis"
+  },
+  {
+    "Name": "Giant girdled lizard",
+    "ScientificName": "Cordylus giganteus"
+  },
+  {
+    "Name": "Hottentot teal",
+    "ScientificName": "Anas punctata"
+  },
+  {
+    "Name": "Lark, horned",
+    "ScientificName": "Eremophila alpestris"
+  },
+  {
+    "Name": "Arctic tern",
+    "ScientificName": "Sterna paradisaea"
+  },
+  {
+    "Name": "Monkey, rhesus",
+    "ScientificName": "Macaca mulatta"
+  },
+  {
+    "Name": "Snake, tiger",
+    "ScientificName": "Notechis semmiannulatus"
+  },
+  {
+    "Name": "Skunk, western spotted",
+    "ScientificName": "Spilogale gracilis"
+  },
+  {
+    "Name": "Miner's cat",
+    "ScientificName": "Bassariscus astutus"
+  },
+  {
+    "Name": "Toucan, white-throated",
+    "ScientificName": "Ramphastos tucanus"
+  },
+  {
+    "Name": "Skink, blue-tongued",
+    "ScientificName": "Tiliqua scincoides"
+  },
+  {
+    "Name": "Greater rhea",
+    "ScientificName": "Rhea americana"
+  },
+  {
+    "Name": "Pied avocet",
+    "ScientificName": "Recurvirostra avosetta"
+  },
+  {
+    "Name": "Elephant, asian",
+    "ScientificName": "Elephas maximus bengalensis"
+  },
+  {
+    "Name": "Beaver, american",
+    "ScientificName": "Castor canadensis"
+  },
+  {
+    "Name": "Ground monitor (unidentified)",
+    "ScientificName": "Varanus sp."
+  },
+  {
+    "Name": "Cormorant, javanese",
+    "ScientificName": "Phalacrocorax niger"
+  },
+  {
+    "Name": "Prairie falcon",
+    "ScientificName": "Falco mexicanus"
+  },
+  {
+    "Name": "Heron, boat-billed",
+    "ScientificName": "Cochlearius cochlearius"
+  },
+  {
+    "Name": "Seal, southern elephant",
+    "ScientificName": "Mirounga leonina"
+  },
+  {
+    "Name": "Arctic ground squirrel",
+    "ScientificName": "Spermophilus parryii"
+  },
+  {
+    "Name": "Arctic ground squirrel",
+    "ScientificName": "Spermophilus parryii"
+  },
+  {
+    "Name": "Mallard",
+    "ScientificName": "Anas platyrhynchos"
+  },
+  {
+    "Name": "Macaw, blue and gold",
+    "ScientificName": "Ara ararauna"
+  },
+  {
+    "Name": "African black crake",
+    "ScientificName": "Limnocorax flavirostra"
+  },
+  {
+    "Name": "Green heron",
+    "ScientificName": "Butorides striatus"
+  },
+  {
+    "Name": "Possum, common brushtail",
+    "ScientificName": "Trichosurus vulpecula"
+  },
+  {
+    "Name": "Cat, civet",
+    "ScientificName": "Bassariscus astutus"
+  },
+  {
+    "Name": "Wolf, mexican",
+    "ScientificName": "Canis lupus baileyi"
+  },
+  {
+    "Name": "Gecko (unidentified)",
+    "ScientificName": "unavailable"
+  },
+  {
+    "Name": "Native cat",
+    "ScientificName": "Dasyurus viverrinus"
+  },
+  {
+    "Name": "Dog, african wild",
+    "ScientificName": "Lycaon pictus"
+  },
+  {
+    "Name": "Boa, malagasy ground",
+    "ScientificName": "Acrantophis madagascariensis"
+  },
+  {
+    "Name": "Galapagos mockingbird",
+    "ScientificName": "Nesomimus trifasciatus"
+  },
+  {
+    "Name": "Platypus",
+    "ScientificName": "Ornithorhynchus anatinus"
+  },
+  {
+    "Name": "Cat, tiger",
+    "ScientificName": "Dasyurus maculatus"
+  },
+  {
+    "Name": "Stork, woolly-necked",
+    "ScientificName": "Ciconia episcopus"
+  },
+  {
+    "Name": "Armadillo, giant",
+    "ScientificName": "Priodontes maximus"
+  },
+  {
+    "Name": "Duck, mountain",
+    "ScientificName": "Hymenolaimus malacorhynchus"
+  },
+  {
+    "Name": "Horned rattlesnake",
+    "ScientificName": "Crotalus cerastes"
+  },
+  {
+    "Name": "Monitor, white-throated",
+    "ScientificName": "Varanus albigularis"
+  },
+  {
+    "Name": "Roseate cockatoo",
+    "ScientificName": "Eolophus roseicapillus"
+  },
+  {
+    "Name": "Short-beaked echidna",
+    "ScientificName": "Tachyglossus aculeatus"
+  },
+  {
+    "Name": "Porcupine, indian",
+    "ScientificName": "Hystrix indica"
+  },
+  {
+    "Name": "Bandicoot, southern brown",
+    "ScientificName": "Isoodon obesulus"
+  },
+  {
+    "Name": "Water legaan",
+    "ScientificName": "Varanus salvator"
+  },
+  {
+    "Name": "Swainson's francolin",
+    "ScientificName": "Francolinus swainsonii"
+  },
+  {
+    "Name": "Turtle, long-necked",
+    "ScientificName": "Chelodina longicollis"
+  },
+  {
+    "Name": "Hoffman's sloth",
+    "ScientificName": "Choloepus hoffmani"
+  },
+  {
+    "Name": "Marten, american",
+    "ScientificName": "Martes americana"
+  },
+  {
+    "Name": "Badger, honey",
+    "ScientificName": "Mellivora capensis"
+  },
+  {
+    "Name": "Rose-ringed parakeet",
+    "ScientificName": "Psittacula krameri"
+  },
+  {
+    "Name": "Scottish highland cow",
+    "ScientificName": "Bos taurus"
+  },
+  {
+    "Name": "Small-spotted genet",
+    "ScientificName": "Genetta genetta"
+  },
+  {
+    "Name": "Starling, greater blue-eared",
+    "ScientificName": "Lamprotornis chalybaeus"
+  },
+  {
+    "Name": "Baboon, olive",
+    "ScientificName": "Papio cynocephalus"
+  },
+  {
+    "Name": "Osprey",
+    "ScientificName": "Pandon haliaetus"
+  },
+  {
+    "Name": "Chacma baboon",
+    "ScientificName": "Papio ursinus"
+  },
+  {
+    "Name": "Stilt, black-winged",
+    "ScientificName": "Himantopus himantopus"
+  },
+  {
+    "Name": "Impala",
+    "ScientificName": "Aepyceros mylampus"
+  },
+  {
+    "Name": "Crown of thorns starfish",
+    "ScientificName": "Acanthaster planci"
+  },
+  {
+    "Name": "Black-throated cardinal",
+    "ScientificName": "Paroaria gularis"
+  },
+  {
+    "Name": "River wallaby",
+    "ScientificName": "Macropus agilis"
+  },
+  {
+    "Name": "Zebra, plains",
+    "ScientificName": "Equus burchelli"
+  },
+  {
+    "Name": "Bandicoot, southern brown",
+    "ScientificName": "Isoodon obesulus"
+  },
+  {
+    "Name": "Green vine snake",
+    "ScientificName": "Oxybelis fulgidus"
+  },
+  {
+    "Name": "Crown of thorns starfish",
+    "ScientificName": "Acanthaster planci"
+  },
+  {
+    "Name": "Polecat, african",
+    "ScientificName": "Ictonyx striatus"
+  },
+  {
+    "Name": "Aardwolf",
+    "ScientificName": "Proteles cristatus"
+  },
+  {
+    "Name": "Bulbul, african red-eyed",
+    "ScientificName": "Pycnonotus nigricans"
+  },
+  {
+    "Name": "Spoonbill, european",
+    "ScientificName": "Platalea leucordia"
+  },
+  {
+    "Name": "Northern phalarope",
+    "ScientificName": "Phalaropus lobatus"
+  },
+  {
+    "Name": "Sockeye salmon",
+    "ScientificName": "Oncorhynchus nerka"
+  },
+  {
+    "Name": "Dragon, komodo",
+    "ScientificName": "Varanus komodensis"
+  },
+  {
+    "Name": "Woolly-necked stork",
+    "ScientificName": "Ciconia episcopus"
+  },
+  {
+    "Name": "Common green iguana",
+    "ScientificName": "Iguana iguana"
+  },
+  {
+    "Name": "Dragon, western bearded",
+    "ScientificName": "Amphibolurus barbatus"
+  },
+  {
+    "Name": "Guanaco",
+    "ScientificName": "Lama guanicoe"
+  },
+  {
+    "Name": "Shelduck, common",
+    "ScientificName": "Tadorna tadorna"
+  },
+  {
+    "Name": "Baboon, olive",
+    "ScientificName": "Papio cynocephalus"
+  },
+  {
+    "Name": "Honey badger",
+    "ScientificName": "Mellivora capensis"
+  },
+  {
+    "Name": "Honey badger",
+    "ScientificName": "Mellivora capensis"
+  },
+  {
+    "Name": "Vulture, griffon",
+    "ScientificName": "Gyps fulvus"
+  },
+  {
+    "Name": "Tortoise, galapagos",
+    "ScientificName": "Geochelone elephantopus"
+  },
+  {
+    "Name": "Fringe-eared oryx",
+    "ScientificName": "Oryx gazella callotis"
+  },
+  {
+    "Name": "Barasingha deer",
+    "ScientificName": "Cervus duvauceli"
+  },
+  {
+    "Name": "Weaver, white-browed sparrow",
+    "ScientificName": "Plocepasser mahali"
+  },
+  {
+    "Name": "Gecko, ring-tailed",
+    "ScientificName": "Cyrtodactylus louisiadensis"
+  },
+  {
+    "Name": "Red meerkat",
+    "ScientificName": "Cynictis penicillata"
+  },
+  {
+    "Name": "Puffin, horned",
+    "ScientificName": "Fratercula corniculata"
+  },
+  {
+    "Name": "Paca",
+    "ScientificName": "Agouti paca"
+  },
+  {
+    "Name": "Gull, swallow-tail",
+    "ScientificName": "Creagrus furcatus"
+  },
+  {
+    "Name": "Alligator, american",
+    "ScientificName": "Alligator mississippiensis"
+  },
+  {
+    "Name": "Squirrel, red",
+    "ScientificName": "Tamiasciurus hudsonicus"
+  },
+  {
+    "Name": "Bottle-nose dolphin",
+    "ScientificName": "Tursiops truncatus"
+  },
+  {
+    "Name": "Wombat, common",
+    "ScientificName": "Vombatus ursinus"
+  },
+  {
+    "Name": "Richardson's ground squirrel",
+    "ScientificName": "Spermophilus richardsonii"
+  },
+  {
+    "Name": "Miner's cat",
+    "ScientificName": "Bassariscus astutus"
+  },
+  {
+    "Name": "Goose, greylag",
+    "ScientificName": "Anser anser"
+  },
+  {
+    "Name": "Flicker, campo",
+    "ScientificName": "Colaptes campestroides"
+  },
+  {
+    "Name": "Small Indian mongoose",
+    "ScientificName": "Herpestes javanicus"
+  },
+  {
+    "Name": "Sally lightfoot crab",
+    "ScientificName": "Graspus graspus"
+  },
+  {
+    "Name": "Hartebeest, coke's",
+    "ScientificName": "Alcelaphus buselaphus cokii"
+  },
+  {
+    "Name": "European beaver",
+    "ScientificName": "Castor fiber"
+  },
+  {
+    "Name": "Black-crowned crane",
+    "ScientificName": "Balearica pavonina"
+  },
+  {
+    "Name": "Black-footed ferret",
+    "ScientificName": "Mustela nigripes"
+  },
+  {
+    "Name": "Asian red fox",
+    "ScientificName": "Vulpes vulpes"
+  },
+  {
+    "Name": "Bird, secretary",
+    "ScientificName": "Sagittarius serpentarius"
+  },
+  {
+    "Name": "Little heron",
+    "ScientificName": "Butorides striatus"
+  },
+  {
+    "Name": "Pademelon, red-legged",
+    "ScientificName": "Thylogale stigmatica"
+  },
+  {
+    "Name": "Creeper, black-tailed tree",
+    "ScientificName": "Climacteris melanura"
+  },
+  {
+    "Name": "Squirrel, pine",
+    "ScientificName": "Tamiasciurus hudsonicus"
+  },
+  {
+    "Name": "Vulture, bengal",
+    "ScientificName": "Gyps bengalensis"
+  },
+  {
+    "Name": "Desert spiny lizard",
+    "ScientificName": "Sceloporus magister"
+  },
+  {
+    "Name": "Capuchin, black-capped",
+    "ScientificName": "Cebus apella"
+  },
+  {
+    "Name": "Racer, american",
+    "ScientificName": "Coluber constrictor"
+  },
+  {
+    "Name": "Orca",
+    "ScientificName": "Orcinus orca"
+  },
+  {
+    "Name": "Raccoon, crab-eating",
+    "ScientificName": "Procyon cancrivorus"
+  },
+  {
+    "Name": "Gull, herring",
+    "ScientificName": "unavailable"
+  },
+  {
+    "Name": "Black swan",
+    "ScientificName": "Cygnus atratus"
+  },
+  {
+    "Name": "Lesser mouse lemur",
+    "ScientificName": "Microcebus murinus"
+  },
+  {
+    "Name": "Arctic ground squirrel",
+    "ScientificName": "Spermophilus parryii"
+  },
+  {
+    "Name": "Blue-breasted cordon bleu",
+    "ScientificName": "Uraeginthus angolensis"
+  },
+  {
+    "Name": "Badger, eurasian",
+    "ScientificName": "Meles meles"
+  },
+  {
+    "Name": "Red-breasted cockatoo",
+    "ScientificName": "Eolophus roseicapillus"
+  },
+  {
+    "Name": "Common palm civet",
+    "ScientificName": "Paradoxurus hermaphroditus"
+  },
+  {
+    "Name": "Tortoise, galapagos",
+    "ScientificName": "Geochelone elephantopus"
+  },
+  {
+    "Name": "White-necked raven",
+    "ScientificName": "Corvus albicollis"
+  },
+  {
+    "Name": "Marten, american",
+    "ScientificName": "Martes americana"
+  },
+  {
+    "Name": "Magellanic penguin",
+    "ScientificName": "Spheniscus magellanicus"
+  },
+  {
+    "Name": "Giant anteater",
+    "ScientificName": "Myrmecophaga tridactyla"
+  },
+  {
+    "Name": "Grey lourie",
+    "ScientificName": "Lorythaixoides concolor"
+  },
+  {
+    "Name": "Fox, blue",
+    "ScientificName": "Alopex lagopus"
+  },
+  {
+    "Name": "Southern boubou",
+    "ScientificName": "Laniarius ferrugineus"
+  },
+  {
+    "Name": "Kafue flats lechwe",
+    "ScientificName": "Kobus leche robertsi"
+  },
+  {
+    "Name": "Drongo, fork-tailed",
+    "ScientificName": "Dicrurus adsimilis"
+  },
+  {
+    "Name": "Puku",
+    "ScientificName": "Kobus vardonii vardoni"
+  },
+  {
+    "Name": "Kudu, greater",
+    "ScientificName": "Tragelaphus strepsiceros"
+  },
+  {
+    "Name": "Golden eagle",
+    "ScientificName": "Aquila chrysaetos"
+  },
+  {
+    "Name": "Lizard (unidentified)",
+    "ScientificName": "unavailable"
+  },
+  {
+    "Name": "Eagle, tawny",
+    "ScientificName": "Anitibyx armatus"
+  },
+  {
+    "Name": "White-headed vulture",
+    "ScientificName": "Aegypius occipitalis"
+  },
+  {
+    "Name": "Bird, secretary",
+    "ScientificName": "Sagittarius serpentarius"
+  },
+  {
+    "Name": "Deer, barasingha",
+    "ScientificName": "Cervus duvauceli"
+  },
+  {
+    "Name": "Black-crowned night heron",
+    "ScientificName": "Nycticorax nycticorax"
+  },
+  {
+    "Name": "Columbian rainbow boa",
+    "ScientificName": "Epicrates cenchria maurus"
+  },
+  {
+    "Name": "Mouse, four-striped grass",
+    "ScientificName": "Rhabdomys pumilio"
+  },
+  {
+    "Name": "Golden jackal",
+    "ScientificName": "Canis aureus"
+  },
+  {
+    "Name": "Bison, american",
+    "ScientificName": "Bison bison"
+  },
+  {
+    "Name": "Common eland",
+    "ScientificName": "Taurotagus oryx"
+  },
+  {
+    "Name": "Coyote",
+    "ScientificName": "Canis latrans"
+  },
+  {
+    "Name": "Golden brush-tailed possum",
+    "ScientificName": "Trichosurus vulpecula"
+  },
+  {
+    "Name": "African fish eagle",
+    "ScientificName": "Haliaetus vocifer"
+  },
+  {
+    "Name": "Red-tailed phascogale",
+    "ScientificName": "Phascogale calura"
+  },
+  {
+    "Name": "Peccary, white-lipped",
+    "ScientificName": "Tayassu pecari"
+  },
+  {
+    "Name": "European wild cat",
+    "ScientificName": "Felis silvestris lybica"
+  },
+  {
+    "Name": "Lion, african",
+    "ScientificName": "Panthera leo"
+  },
+  {
+    "Name": "Beisa oryx",
+    "ScientificName": "Oryx gazella"
+  },
+  {
+    "Name": "Buffalo, wild water",
+    "ScientificName": "Bubalus arnee"
+  },
+  {
+    "Name": "Weaver, sociable",
+    "ScientificName": "Philetairus socius"
+  },
+  {
+    "Name": "Deer, barasingha",
+    "ScientificName": "Cervus duvauceli"
+  },
+  {
+    "Name": "Ring-necked pheasant",
+    "ScientificName": "Phasianus colchicus"
+  },
+  {
+    "Name": "Cape Barren goose",
+    "ScientificName": "Cereopsis novaehollandiae"
+  },
+  {
+    "Name": "Baboon, savanna",
+    "ScientificName": "Papio cynocephalus"
+  },
+  {
+    "Name": "Southern white-crowned shrike",
+    "ScientificName": "Eurocephalus anguitimens"
+  },
+  {
+    "Name": "Western palm tanager (unidentified)",
+    "ScientificName": "unavailable"
+  },
+  {
+    "Name": "Potoroo",
+    "ScientificName": "Potorous tridactylus"
+  },
+  {
+    "Name": "Frog (unidentified)",
+    "ScientificName": "Rana sp."
+  },
+  {
+    "Name": "Pelican, great white",
+    "ScientificName": "Pelecans onocratalus"
+  },
+  {
+    "Name": "Chestnut weaver",
+    "ScientificName": "Ploceus rubiginosus"
+  },
+  {
+    "Name": "Gull, kelp",
+    "ScientificName": "Larus dominicanus"
+  },
+  {
+    "Name": "Cormorant, pied",
+    "ScientificName": "Phalacrocorax varius"
+  },
+  {
+    "Name": "Beisa oryx",
+    "ScientificName": "Oryx gazella"
+  },
+  {
+    "Name": "Zebra, plains",
+    "ScientificName": "Equus burchelli"
+  },
+  {
+    "Name": "Common green iguana",
+    "ScientificName": "Iguana iguana"
+  },
+  {
+    "Name": "Cobra (unidentified)",
+    "ScientificName": "Naja sp."
+  },
+  {
+    "Name": "Woodpecker, red-headed",
+    "ScientificName": "Melanerpes erythrocephalus"
+  },
+  {
+    "Name": "Vulture, oriental white-backed",
+    "ScientificName": "Gyps bengalensis"
+  },
+  {
+    "Name": "North American red fox",
+    "ScientificName": "Vulpes vulpes"
+  },
+  {
+    "Name": "Yellow-brown sungazer",
+    "ScientificName": "Cordylus giganteus"
+  },
+  {
+    "Name": "Topi",
+    "ScientificName": "Damaliscus lunatus"
+  },
+  {
+    "Name": "Squirrel, eurasian red",
+    "ScientificName": "Sciurus vulgaris"
+  },
+  {
+    "Name": "Buffalo, american",
+    "ScientificName": "Bison bison"
+  },
+  {
+    "Name": "Blue-tongued lizard",
+    "ScientificName": "Tiliqua scincoides"
+  },
+  {
+    "Name": "Lemming, arctic",
+    "ScientificName": "Dicrostonyx groenlandicus"
+  },
+  {
+    "Name": "Desert kangaroo rat",
+    "ScientificName": "Dipodomys deserti"
+  },
+  {
+    "Name": "Western palm tanager (unidentified)",
+    "ScientificName": "unavailable"
+  },
+  {
+    "Name": "Badger, honey",
+    "ScientificName": "Mellivora capensis"
+  },
+  {
+    "Name": "Fat-tailed dunnart",
+    "ScientificName": "Smithopsis crassicaudata"
+  },
+  {
+    "Name": "Rhinoceros, square-lipped",
+    "ScientificName": "Ceratotherium simum"
+  },
+  {
+    "Name": "Blue crane",
+    "ScientificName": "Anthropoides paradisea"
+  },
+  {
+    "Name": "Tortoise, asian foreset",
+    "ScientificName": "Manouria emys"
+  },
+  {
+    "Name": "Cat, kaffir",
+    "ScientificName": "Felis silvestris lybica"
+  },
+  {
+    "Name": "Armadillo, common long-nosed",
+    "ScientificName": "Dasypus novemcinctus"
+  },
+  {
+    "Name": "Booby, blue-faced",
+    "ScientificName": "Sula dactylatra"
+  },
+  {
+    "Name": "Rat, arboral spiny",
+    "ScientificName": "Echimys chrysurus"
+  },
+  {
+    "Name": "Southern screamer",
+    "ScientificName": "Chauna torquata"
+  },
+  {
+    "Name": "Hanuman langur",
+    "ScientificName": "Semnopithecus entellus"
+  },
+  {
+    "Name": "Vulture, egyptian",
+    "ScientificName": "Neophron percnopterus"
+  },
+  {
+    "Name": "Guanaco",
+    "ScientificName": "Lama guanicoe"
+  },
+  {
+    "Name": "Red-billed toucan",
+    "ScientificName": "Ramphastos tucanus"
+  },
+  {
+    "Name": "Leopard, indian",
+    "ScientificName": "Panthera pardus"
+  },
+  {
+    "Name": "Argalis",
+    "ScientificName": "Ovis ammon"
+  },
+  {
+    "Name": "Red-tailed hawk",
+    "ScientificName": "Buteo jamaicensis"
+  },
+  {
+    "Name": "Boa, malagasy ground",
+    "ScientificName": "Acrantophis madagascariensis"
+  },
+  {
+    "Name": "Cereopsis goose",
+    "ScientificName": "Cereopsis novaehollandiae"
+  },
+  {
+    "Name": "American beaver",
+    "ScientificName": "Castor canadensis"
+  },
+  {
+    "Name": "Shrew, mandras tree",
+    "ScientificName": "Anathana ellioti"
+  },
+  {
+    "Name": "White-eye, pale",
+    "ScientificName": "Zosterops pallidus"
+  },
+  {
+    "Name": "Legaan, water",
+    "ScientificName": "Varanus salvator"
+  },
+  {
+    "Name": "Goanna lizard",
+    "ScientificName": "Varanus sp."
+  },
+  {
+    "Name": "Creeper, black-tailed tree",
+    "ScientificName": "Climacteris melanura"
+  },
+  {
+    "Name": "Squirrel, african bush",
+    "ScientificName": "Paraxerus cepapi"
+  },
+  {
+    "Name": "Devil, tasmanian",
+    "ScientificName": "Sarcophilus harrisii"
+  },
+  {
+    "Name": "Blackbuck",
+    "ScientificName": "Antilope cervicapra"
+  },
+  {
+    "Name": "Little blue penguin",
+    "ScientificName": "Eudyptula minor"
+  },
+  {
+    "Name": "South American puma",
+    "ScientificName": "Felis concolor"
+  },
+  {
+    "Name": "Wallaby, tammar",
+    "ScientificName": "Macropus eugenii"
+  },
+  {
+    "Name": "Rhesus monkey",
+    "ScientificName": "Macaca mulatta"
+  },
+  {
+    "Name": "Dromedary camel",
+    "ScientificName": "Camelus dromedarius"
+  },
+  {
+    "Name": "Vulture, white-rumped",
+    "ScientificName": "Gyps bengalensis"
+  },
+  {
+    "Name": "Hyena, brown",
+    "ScientificName": "Hyaena brunnea"
+  },
+  {
+    "Name": "Masked booby",
+    "ScientificName": "Sula dactylatra"
+  },
+  {
+    "Name": "Eastern grey kangaroo",
+    "ScientificName": "Macropus giganteus"
+  },
+  {
+    "Name": "Macaque, japanese",
+    "ScientificName": "Macaca fuscata"
+  },
+  {
+    "Name": "Hartebeest, coke's",
+    "ScientificName": "Alcelaphus buselaphus cokii"
+  },
+  {
+    "Name": "Buttermilk snake",
+    "ScientificName": "Coluber constrictor"
+  },
+  {
+    "Name": "Darter, african",
+    "ScientificName": "Anhinga rufa"
+  },
+  {
+    "Name": "Klipspringer",
+    "ScientificName": "Oreotragus oreotragus"
+  },
+  {
+    "Name": "Nine-banded armadillo",
+    "ScientificName": "Dasypus novemcinctus"
+  },
+  {
+    "Name": "Southern black-backed gull",
+    "ScientificName": "Larus dominicanus"
+  },
+  {
+    "Name": "Yellow-crowned night heron",
+    "ScientificName": "Nyctanassa violacea"
+  },
+  {
+    "Name": "Heron, black-crowned night",
+    "ScientificName": "Nycticorax nycticorax"
+  },
+  {
+    "Name": "Pheasant, ring-necked",
+    "ScientificName": "Phasianus colchicus"
+  },
+  {
+    "Name": "Brazilian otter",
+    "ScientificName": "Pteronura brasiliensis"
+  },
+  {
+    "Name": "Great egret",
+    "ScientificName": "Casmerodius albus"
+  },
+  {
+    "Name": "Wood pigeon",
+    "ScientificName": "Columba palumbus"
+  },
+  {
+    "Name": "Hanuman langur",
+    "ScientificName": "Semnopithecus entellus"
+  },
+  {
+    "Name": "Sandgrouse, yellow-throated",
+    "ScientificName": "Pterocles gutturalis"
+  },
+  {
+    "Name": "Partridge, coqui",
+    "ScientificName": "Francolinus coqui"
+  },
+  {
+    "Name": "Sidewinder",
+    "ScientificName": "Crotalus cerastes"
+  },
+  {
+    "Name": "Barbet, black-collared",
+    "ScientificName": "Lybius torquatus"
+  },
+  {
+    "Name": "Buffalo, african",
+    "ScientificName": "Snycerus caffer"
+  },
+  {
+    "Name": "Ox, musk",
+    "ScientificName": "Ovibos moschatus"
+  },
+  {
+    "Name": "Sacred ibis",
+    "ScientificName": "Threskionis aethiopicus"
+  },
+  {
+    "Name": "Warthog",
+    "ScientificName": "Phacochoerus aethiopus"
+  },
+  {
+    "Name": "Egret, great",
+    "ScientificName": "Casmerodius albus"
+  },
+  {
+    "Name": "Numbat",
+    "ScientificName": "Myrmecobius fasciatus"
+  },
+  {
+    "Name": "Hornbill, red-billed",
+    "ScientificName": "Tockus erythrorhyncus"
+  },
+  {
+    "Name": "Grouse, greater sage",
+    "ScientificName": "Centrocercus urophasianus"
+  },
+  {
+    "Name": "Teal, hottentot",
+    "ScientificName": "Anas punctata"
+  },
+  {
+    "Name": "Polar bear",
+    "ScientificName": "Ursus maritimus"
+  },
+  {
+    "Name": "Common grenadier",
+    "ScientificName": "Uraeginthus granatina"
+  },
+  {
+    "Name": "Bontebok",
+    "ScientificName": "Damaliscus dorcas"
+  },
+  {
+    "Name": "Ferruginous hawk",
+    "ScientificName": "Buteo regalis"
+  },
+  {
+    "Name": "Turtle (unidentified)",
+    "ScientificName": "unavailable"
+  },
+  {
+    "Name": "Hartebeest, coke's",
+    "ScientificName": "Alcelaphus buselaphus cokii"
+  },
+  {
+    "Name": "Weeper capuchin",
+    "ScientificName": "Cebus nigrivittatus"
+  },
+  {
+    "Name": "Eurasian hoopoe",
+    "ScientificName": "Upupa epops"
+  },
+  {
+    "Name": "Kingfisher, white-throated",
+    "ScientificName": "Halcyon smyrnesis"
+  },
+  {
+    "Name": "Swamp deer",
+    "ScientificName": "Cervus duvauceli"
+  },
+  {
+    "Name": "Cape raven",
+    "ScientificName": "Corvus albicollis"
+  },
+  {
+    "Name": "Greater blue-eared starling",
+    "ScientificName": "Lamprotornis chalybaeus"
+  },
+  {
+    "Name": "Secretary bird",
+    "ScientificName": "Sagittarius serpentarius"
+  },
+  {
+    "Name": "Killer whale",
+    "ScientificName": "Orcinus orca"
+  },
+  {
+    "Name": "Cormorant, neotropic",
+    "ScientificName": "Phalacrocorax brasilianus"
+  },
+  {
+    "Name": "Arboral spiny rat",
+    "ScientificName": "Echimys chrysurus"
+  },
+  {
+    "Name": "Yellow-necked spurfowl",
+    "ScientificName": "Francolinus leucoscepus"
+  },
+  {
+    "Name": "Yellow-necked spurfowl",
+    "ScientificName": "Francolinus leucoscepus"
+  },
+  {
+    "Name": "Common duiker",
+    "ScientificName": "Sylvicapra grimma"
+  },
+  {
+    "Name": "Green-winged macaw",
+    "ScientificName": "Ara chloroptera"
+  },
+  {
+    "Name": "Squirrel, nelson ground",
+    "ScientificName": "Ammospermophilus nelsoni"
+  },
+  {
+    "Name": "Dragon, komodo",
+    "ScientificName": "Varanus komodensis"
+  },
+  {
+    "Name": "Coot, red-knobbed",
+    "ScientificName": "Fulica cristata"
+  },
+  {
+    "Name": "Wild boar",
+    "ScientificName": "Sus scrofa"
+  },
+  {
+    "Name": "Capybara",
+    "ScientificName": "Hydrochoerus hydrochaeris"
+  },
+  {
+    "Name": "Owl, great horned",
+    "ScientificName": "Bubo virginianus"
+  },
+  {
+    "Name": "Grizzly bear",
+    "ScientificName": "Ursus arctos"
+  },
+  {
+    "Name": "Squirrel, thirteen-lined",
+    "ScientificName": "Spermophilus tridecemlineatus"
+  },
+  {
+    "Name": "Magnificent frigate bird",
+    "ScientificName": "Fregata magnificans"
+  },
+  {
+    "Name": "Kori bustard",
+    "ScientificName": "Choriotis kori"
+  },
+  {
+    "Name": "Dove, white-winged",
+    "ScientificName": "Zenaida asiatica"
+  },
+  {
+    "Name": "Tortoise, burmese black mountain",
+    "ScientificName": "Manouria emys"
+  },
+  {
+    "Name": "Mocking cliffchat",
+    "ScientificName": "Thamnolaea cinnmomeiventris"
+  },
+  {
+    "Name": "Red-tailed phascogale",
+    "ScientificName": "Phascogale calura"
+  },
+  {
+    "Name": "Oriental short-clawed otter",
+    "ScientificName": "Aonyx cinerea"
+  },
+  {
+    "Name": "Mudskipper (unidentified)",
+    "ScientificName": "unavailable"
+  },
+  {
+    "Name": "Bear, american black",
+    "ScientificName": "Ursus americanus"
+  },
+  {
+    "Name": "African black crake",
+    "ScientificName": "Limnocorax flavirostra"
+  },
+  {
+    "Name": "Sally lightfoot crab",
+    "ScientificName": "Graspus graspus"
+  },
+  {
+    "Name": "Golden brush-tailed possum",
+    "ScientificName": "Trichosurus vulpecula"
+  },
+  {
+    "Name": "Fox, grey",
+    "ScientificName": "Vulpes cinereoargenteus"
+  },
+  {
+    "Name": "Peccary, collared",
+    "ScientificName": "Tayassu tajacu"
+  },
+  {
+    "Name": "Western spotted skunk",
+    "ScientificName": "Spilogale gracilis"
+  },
+  {
+    "Name": "Crab, red lava",
+    "ScientificName": "Graspus graspus"
+  },
+  {
+    "Name": "Groundhog",
+    "ScientificName": "Marmota monax"
+  },
+  {
+    "Name": "Gull, dusky",
+    "ScientificName": "Larus fuliginosus"
+  },
+  {
+    "Name": "Mandras tree shrew",
+    "ScientificName": "Anathana ellioti"
+  },
+  {
+    "Name": "Blue catfish",
+    "ScientificName": "Ictalurus furcatus"
+  },
+  {
+    "Name": "Dove, mourning collared",
+    "ScientificName": "Streptopelia decipiens"
+  },
+  {
+    "Name": "Bettong, brush-tailed",
+    "ScientificName": "Bettongia penicillata"
+  },
+  {
+    "Name": "Sandhill crane",
+    "ScientificName": "Grus canadensis"
+  },
+  {
+    "Name": "Red-billed tropic bird",
+    "ScientificName": "Phaethon aethereus"
+  },
+  {
+    "Name": "Pronghorn",
+    "ScientificName": "Antilocapra americana"
+  },
+  {
+    "Name": "Lynx, african",
+    "ScientificName": "Felis caracal"
+  },
+  {
+    "Name": "Booby, blue-footed",
+    "ScientificName": "Sula nebouxii"
+  },
+  {
+    "Name": "Honey badger",
+    "ScientificName": "Mellivora capensis"
+  },
+  {
+    "Name": "Tiger snake",
+    "ScientificName": "Notechis semmiannulatus"
+  },
+  {
+    "Name": "North American river otter",
+    "ScientificName": "Lutra canadensis"
+  },
+  {
+    "Name": "Capuchin, white-fronted",
+    "ScientificName": "Cebus albifrons"
+  },
+  {
+    "Name": "Coke's hartebeest",
+    "ScientificName": "Alcelaphus buselaphus cokii"
+  },
+  {
+    "Name": "Caiman, spectacled",
+    "ScientificName": "Caiman crocodilus"
+  },
+  {
+    "Name": "Brown and yellow marshbird",
+    "ScientificName": "Pseudoleistes virescens"
+  },
+  {
+    "Name": "Stone sheep",
+    "ScientificName": "Ovis dalli stonei"
+  },
+  {
+    "Name": "Ring dove",
+    "ScientificName": "Columba palumbus"
+  },
+  {
+    "Name": "Stone sheep",
+    "ScientificName": "Ovis dalli stonei"
+  },
+  {
+    "Name": "African wild dog",
+    "ScientificName": "Lycaon pictus"
+  },
+  {
+    "Name": "Sparrow, rufous-collared",
+    "ScientificName": "Zonotrichia capensis"
+  },
+  {
+    "Name": "Monitor lizard (unidentified)",
+    "ScientificName": "Varanus sp."
+  },
+  {
+    "Name": "Ring dove",
+    "ScientificName": "Columba palumbus"
+  },
+  {
+    "Name": "Black-faced kangaroo",
+    "ScientificName": "Macropus fuliginosus"
+  },
+  {
+    "Name": "Crab-eating raccoon",
+    "ScientificName": "Procyon cancrivorus"
+  },
+  {
+    "Name": "Common eland",
+    "ScientificName": "Taurotagus oryx"
+  },
+  {
+    "Name": "South American puma",
+    "ScientificName": "Felis concolor"
+  },
+  {
+    "Name": "Hen, sage",
+    "ScientificName": "Centrocercus urophasianus"
+  },
+  {
+    "Name": "Puma",
+    "ScientificName": "Felis concolor"
+  },
+  {
+    "Name": "Nighthawk, common",
+    "ScientificName": "Chordeiles minor"
+  },
+  {
+    "Name": "Lizard, giant girdled",
+    "ScientificName": "Cordylus giganteus"
+  },
+  {
+    "Name": "Woodcock, american",
+    "ScientificName": "Scolopax minor"
+  },
+  {
+    "Name": "American bison",
+    "ScientificName": "Bison bison"
+  },
+  {
+    "Name": "Common genet",
+    "ScientificName": "Genetta genetta"
+  },
+  {
+    "Name": "Tarantula",
+    "ScientificName": "Lasiodora parahybana"
+  },
+  {
+    "Name": "Dove, little brown",
+    "ScientificName": "Streptopelia senegalensis"
+  },
+  {
+    "Name": "Civet cat",
+    "ScientificName": "Bassariscus astutus"
+  },
+  {
+    "Name": "Wallaroo, common",
+    "ScientificName": "Macropus robustus"
+  },
+  {
+    "Name": "Crane, blue",
+    "ScientificName": "Anthropoides paradisea"
+  },
+  {
+    "Name": "Waved albatross",
+    "ScientificName": "Diomedea irrorata"
+  },
+  {
+    "Name": "Leopard",
+    "ScientificName": "Panthera pardus"
+  },
+  {
+    "Name": "Galapagos mockingbird",
+    "ScientificName": "Nesomimus trifasciatus"
+  },
+  {
+    "Name": "Carmine bee-eater",
+    "ScientificName": "Merops nubicus"
+  },
+  {
+    "Name": "Lilac-breasted roller",
+    "ScientificName": "Coracias caudata"
+  },
+  {
+    "Name": "Caribou",
+    "ScientificName": "Rangifer tarandus"
+  },
+  {
+    "Name": "Spoonbill, european",
+    "ScientificName": "Platalea leucordia"
+  },
+  {
+    "Name": "Jackrabbit, white-tailed",
+    "ScientificName": "Lepus townsendii"
+  },
+  {
+    "Name": "Heron, little",
+    "ScientificName": "Butorides striatus"
+  },
+  {
+    "Name": "Cockatoo, red-breasted",
+    "ScientificName": "Eolophus roseicapillus"
+  },
+  {
+    "Name": "Boa, columbian rainbow",
+    "ScientificName": "Epicrates cenchria maurus"
+  },
+  {
+    "Name": "Gull, silver",
+    "ScientificName": "Larus novaehollandiae"
+  },
+  {
+    "Name": "Water legaan",
+    "ScientificName": "Varanus salvator"
+  },
+  {
+    "Name": "Waxbill, blue",
+    "ScientificName": "Uraeginthus angolensis"
+  },
+  {
+    "Name": "White-tailed jackrabbit",
+    "ScientificName": "Lepus townsendii"
+  },
+  {
+    "Name": "Chuckwalla",
+    "ScientificName": "Sauromalus obesus"
+  },
+  {
+    "Name": "Dromedary camel",
+    "ScientificName": "Camelus dromedarius"
+  },
+  {
+    "Name": "Dove, white-winged",
+    "ScientificName": "Zenaida asiatica"
+  },
+  {
+    "Name": "Spotted hyena",
+    "ScientificName": "Crocuta crocuta"
+  },
+  {
+    "Name": "Dama wallaby",
+    "ScientificName": "Macropus eugenii"
+  },
+  {
+    "Name": "Gonolek, burchell's",
+    "ScientificName": "Laniaurius atrococcineus"
+  },
+  {
+    "Name": "Iguana, land",
+    "ScientificName": "Conolophus subcristatus"
+  },
+  {
+    "Name": "Guerza",
+    "ScientificName": "Colobus guerza"
+  },
+  {
+    "Name": "Blue-tongued skink",
+    "ScientificName": "Tiliqua scincoides"
+  },
+  {
+    "Name": "Hornbill, red-billed",
+    "ScientificName": "Tockus erythrorhyncus"
+  },
+  {
+    "Name": "Savanna baboon",
+    "ScientificName": "Papio cynocephalus"
+  },
+  {
+    "Name": "Red-winged blackbird",
+    "ScientificName": "Agelaius phoeniceus"
+  },
+  {
+    "Name": "Gull, lava",
+    "ScientificName": "Larus fuliginosus"
+  },
+  {
+    "Name": "Macaw, blue and yellow",
+    "ScientificName": "Ara ararauna"
+  },
+  {
+    "Name": "Wallaby, river",
+    "ScientificName": "Macropus agilis"
+  },
+  {
+    "Name": "Camel, dromedary",
+    "ScientificName": "Camelus dromedarius"
+  },
+  {
+    "Name": "Kafue flats lechwe",
+    "ScientificName": "Kobus leche robertsi"
+  },
+  {
+    "Name": "Dragon, komodo",
+    "ScientificName": "Varanus komodensis"
+  },
+  {
+    "Name": "Red-breasted cockatoo",
+    "ScientificName": "Eolophus roseicapillus"
+  },
+  {
+    "Name": "Argalis",
+    "ScientificName": "Ovis ammon"
+  },
+  {
+    "Name": "Blue wildebeest",
+    "ScientificName": "Connochaetus taurinus"
+  },
+  {
+    "Name": "Green-backed heron",
+    "ScientificName": "Butorides striatus"
+  },
+  {
+    "Name": "Crab, red lava",
+    "ScientificName": "Graspus graspus"
+  },
+  {
+    "Name": "Verreaux's sifaka",
+    "ScientificName": "Propithecus verreauxi"
+  },
+  {
+    "Name": "Scaly-breasted lorikeet",
+    "ScientificName": "Trichoglossus chlorolepidotus"
+  },
+  {
+    "Name": "Galapagos tortoise",
+    "ScientificName": "Geochelone elephantopus"
+  },
+  {
+    "Name": "Hawk, red-tailed",
+    "ScientificName": "Buteo jamaicensis"
+  },
+  {
+    "Name": "Crane, wattled",
+    "ScientificName": "Bugeranus caruncalatus"
+  },
+  {
+    "Name": "Southern boubou",
+    "ScientificName": "Laniarius ferrugineus"
+  },
+  {
+    "Name": "Wallaby, tammar",
+    "ScientificName": "Macropus eugenii"
+  },
+  {
+    "Name": "Chickadee, black-capped",
+    "ScientificName": "Parus atricapillus"
+  },
+  {
+    "Name": "Levaillant's barbet",
+    "ScientificName": "Trachyphonus vaillantii"
+  },
+  {
+    "Name": "Cat, civet",
+    "ScientificName": "Bassariscus astutus"
+  },
+  {
+    "Name": "Nilgai",
+    "ScientificName": "Boselaphus tragocamelus"
+  },
+  {
+    "Name": "Platypus",
+    "ScientificName": "Ornithorhynchus anatinus"
+  },
+  {
+    "Name": "Turkey, common",
+    "ScientificName": "Meleagris gallopavo"
+  },
+  {
+    "Name": "Cape fox",
+    "ScientificName": "Vulpes chama"
+  },
+  {
+    "Name": "Frilled dragon",
+    "ScientificName": "Chlamydosaurus kingii"
+  },
+  {
+    "Name": "Hen, sage",
+    "ScientificName": "Centrocercus urophasianus"
+  },
+  {
+    "Name": "European badger",
+    "ScientificName": "Meles meles"
+  },
+  {
+    "Name": "Screamer, southern",
+    "ScientificName": "Chauna torquata"
+  },
+  {
+    "Name": "Eastern diamondback rattlesnake",
+    "ScientificName": "Crotalus adamanteus"
+  },
+  {
+    "Name": "Ocelot",
+    "ScientificName": "Felis pardalis"
+  },
+  {
+    "Name": "Sloth bear",
+    "ScientificName": "Melursus ursinus"
+  },
+  {
+    "Name": "Giant otter",
+    "ScientificName": "Pteronura brasiliensis"
+  },
+  {
+    "Name": "Trotter, lily",
+    "ScientificName": "Actophilornis africanus"
+  },
+  {
+    "Name": "Long-nosed bandicoot",
+    "ScientificName": "Perameles nasuta"
+  },
+  {
+    "Name": "Grenadier, purple",
+    "ScientificName": "Uraeginthus granatina"
+  },
+  {
+    "Name": "Brush-tailed phascogale",
+    "ScientificName": "Phascogale tapoatafa"
+  },
+  {
+    "Name": "Gecko, barking",
+    "ScientificName": "Phylurus milli"
+  },
+  {
+    "Name": "Fox, north american red",
+    "ScientificName": "Vulpes vulpes"
+  },
+  {
+    "Name": "Short-nosed bandicoot",
+    "ScientificName": "Isoodon obesulus"
+  },
+  {
+    "Name": "Pie, rufous tree",
+    "ScientificName": "Dendrocitta vagabunda"
+  },
+  {
+    "Name": "White-necked stork",
+    "ScientificName": "Ciconia episcopus"
+  },
+  {
+    "Name": "Dog, bush",
+    "ScientificName": "Speothos vanaticus"
+  },
+  {
+    "Name": "Tern, white-winged",
+    "ScientificName": "Chlidonias leucopterus"
+  },
+  {
+    "Name": "Magpie, black-backed",
+    "ScientificName": "Gymnorhina tibicen"
+  },
+  {
+    "Name": "King vulture",
+    "ScientificName": "Sarcorhamphus papa"
+  },
+  {
+    "Name": "Brocket, brown",
+    "ScientificName": "Mazama gouazoubira"
+  },
+  {
+    "Name": "Grey lourie",
+    "ScientificName": "Lorythaixoides concolor"
+  },
+  {
+    "Name": "Cormorant, neotropic",
+    "ScientificName": "Phalacrocorax brasilianus"
+  },
+  {
+    "Name": "Gila monster",
+    "ScientificName": "Heloderma horridum"
+  },
+  {
+    "Name": "Lechwe, kafue flats",
+    "ScientificName": "Kobus leche robertsi"
+  },
+  {
+    "Name": "Stilt, black-winged",
+    "ScientificName": "Himantopus himantopus"
+  },
+  {
+    "Name": "Grey phalarope",
+    "ScientificName": "Phalaropus fulicarius"
+  },
+  {
+    "Name": "Wallaby, tammar",
+    "ScientificName": "Macropus eugenii"
+  },
+  {
+    "Name": "Insect, stick",
+    "ScientificName": "Leprocaulinus vipera"
+  },
+  {
+    "Name": "Pademelon, red-legged",
+    "ScientificName": "Thylogale stigmatica"
+  },
+  {
+    "Name": "Screamer, crested",
+    "ScientificName": "Chauna torquata"
+  },
+  {
+    "Name": "Columbian rainbow boa",
+    "ScientificName": "Epicrates cenchria maurus"
+  }
+]

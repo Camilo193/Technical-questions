@@ -35,14 +35,14 @@ namespace Generics
     }
 
     //You can't combine struct, class, notnull and default in where T :
-    public class Response3<T> where T : struct, class
-    {
-        public T Data { get; set; }
+    //public class Response3<T> where T : struct, class
+    //{
+    //    public T Data { get; set; }
 
-        public bool IsSuccess { get; set; }
+    //    public bool IsSuccess { get; set; }
 
-        public string Message { get; set; }
-    }
+    //    public string Message { get; set; }
+    //}
 
     public class Response4<T>
     {
@@ -51,10 +51,27 @@ namespace Generics
         public bool IsSuccess { get; set; }
 
         public string Message { get; set; }
+
+        //public static implicit operator string(Response4<string> v)
+        //{
+        //    throw new NotImplementedException();
+        //}
     }
 
     //Generic class with multiples generics
     public class Response5<T,X,Y,Z>
+    {
+        public T Data { get; set; }
+
+        public X Data2 { get; set; }
+
+        public Y Data3 { get; set; }
+
+        public Z Data4 { get; set; }
+    }
+
+    //If you have multiple generics, each one can have their where
+    public class Response6<T, X, Y, Z> where T : struct where X : struct
     {
         public T Data { get; set; }
 

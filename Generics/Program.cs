@@ -1,13 +1,13 @@
 ﻿using Generics;
 
 //This can't be possible, because string isn't a struct, it's a class
-Response<string> response = new Response<string>();
+//Response<string> response = new Response<string>();
 
 //Response2 has where T : class
 Response2<string> response2 = new();
 
 //It can't be possible, because string isn't a class, it's a struct
-Response2<bool> response3 = new();
+//Response2<bool> response3 = new();
 
 //Response 4 can be struct and class at the same time
 Response4<string> response4 = new();
@@ -29,4 +29,7 @@ response5.Data = "I'm a string";
 response5.Data2 = true;
 response5.Data3 = 'F';
 response5.Data4 = "I'm a dynamyc, so I can be string, bool, char. But dynamic is different to generics";
+
+dynamic parcero = "Hola";
+parcero = 5;
 
